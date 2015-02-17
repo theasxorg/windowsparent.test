@@ -115,7 +115,7 @@ for (i=0;i<x.length;i++)
       
          if (x[i].getElementsByTagName("win8")[0].childNodes[0].nodeValue != "false")
          {
-      		document.write("<a href=");
+      		document.write("<a href=\"");
       		document.write(x[i].getElementsByTagName("bitlyW8")[0].childNodes[0].nodeValue);
       		document.write("\">");
       		document.write("<img id=\"store\" alt=\"W8\" onmouseout=\"this.src='../../../../images/W8.png'\"  onmouseover=\"this.src='../../../../images/W8_hover.png'\" src=\"../../../../images/W8.png\">");
@@ -196,7 +196,7 @@ for (i=0;i<n.length;i++)
 		
       if (n[i].getElementsByTagName("win8")[0].childNodes[0].nodeValue != "false")
          {
-      		document.write("<a href=");
+      		document.write("<a href=\"");
       		document.write(n[i].getElementsByTagName("bitlyW8")[0].childNodes[0].nodeValue);
       		document.write("\"><img src=\"images/windows-store-button.png\" alt=\"Download on Windows 8\" border=0></a>");
 
