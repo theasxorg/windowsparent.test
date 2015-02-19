@@ -55,22 +55,22 @@ document.write("<ul class=\"categoryNav navText\">");
 for (i=0;i<n.length;i++)
   { 
 
-    if(n[i].getElementsByTagName("title")[0].childNodes[0].nodeValue != page)
+  if(n[i].getElementsByTagName("title")[0].childNodes[0].nodeValue != page)
 	{
-      document.write("<li><a href=");
-      document.write(n[i].getElementsByTagName("link")[0].childNodes[0].nodeValue);
+    document.write("<li><a href=");
+    document.write(n[i].getElementsByTagName("link")[0].childNodes[0].nodeValue);
 	  document.write(">");
 	  document.write(n[i].getElementsByTagName("title")[0].childNodes[0].nodeValue);
 	  document.write("</a></li>");
 	}
 	else{
-		      document.write("<li class=\"nav-selected\">");
-			  document.write(page);
-			  document.write("<li>");
+    document.write("<li class=\"nav-selected\">");
+	  document.write(page);
+	  document.write("</li>");
 	}
   
   }
-        document.write("</ul>");
+  document.write("</ul>");
 }
 
 function appContainer(leftNav, topNav){
