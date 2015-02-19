@@ -33,46 +33,36 @@
 	  <versionreviewed />
       <ratingdetails />
     </app>
-<app>
-<name>Skype</name>
-<image>
-http://cdn.marketplaceimages.windowsphone.com/v8/images/ec9828e3-6d00-45d6-bc88-35533091f9f3
-</image>
-<win8>5e19cc61-8994-4797-bdc7-c21263f6282b</win8>
-<review>0</review>
-<free>FREE APP!</free>
-<tweet>
-<![CDATA[
-Get in touch with your loved ones from everywhere: free calls, videocalls and much more!
-]]>
-</tweet>
-<bitly>http://bit.ly/1zTPqPS</bitly>
-<id>c3f8e570-68b3-4d6a-bdbb-c0a3f4360a51</id>
-<priority>150205</priority>
-<categories>
-<category>Today</category>
-<category>Parents</category>
-<category>Featured</category>
-<category>Productivity</category>
-<category>Photography and videos</category>
-<category>Social Networking</category>
-<category>Travelling</category>
-</categories>
-<filters/>
-<url>
-http://windowsphoneparent.com/best-productivity-dial-apps-for-parents-on-windows-phone-lightning-dial/
-</url>
-<rating>0</rating>
-<related/>
-<thebottomline/>
-<thegoods/>
-<thebads/>
-<theuglys/>
-<theamazings/>
-<video/>
-<versionreviewed/>
-<ratingdetails/>
-</app>
+      <app>
+      <name>Skype</name>
+	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/dec20714-8a1b-4512-866f-7e9694882636</image>
+	  <win8>false</win8>     
+	  <review>0</review>
+      <free>FREE APP!</free>
+      <tweet><![CDATA[Get in touch with your loved ones from everywhere: free calls, videocalls and much more!]]></tweet>
+      <bitlyW8>http://bit.ly/1E3IGwo</bitlyW8>
+	  <bitly>http://bit.ly/1zTPqPS</bitly>
+      <id>c3f8e570-68b3-4d6a-bdbb-c0a3f4360a51</id>
+      <priority>150205</priority>
+      <categories>
+		<category>Today</category>
+		<category>Parents</category>
+		<category>Featured</category> 
+        <category>Productivity</category>
+        <category>Photography and videos</category>
+		<category>Social Networking</category> 
+		<category>Travelling</category> 
+      </categories>
+      <filters />
+      <url>http://windowsphoneparent.com/best-productivity-dial-apps-for-parents-on-windows-phone-lightning-dial/</url>
+      <rating>0</rating>      <related />
+      <thebottomline />      <thegoods />
+      <thebads />
+      <theuglys />
+      <theamazings />
+      <video />      <versionreviewed />
+      <ratingdetails />
+    </app>
   <app>
       <name>MixaMonster</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/74bb17ce-c24b-4872-908c-ac23cc4a3fa9</image>
@@ -164,7 +154,7 @@ http://windowsphoneparent.com/best-productivity-dial-apps-for-parents-on-windows
       <tweet><![CDATA[Practice your swing anywhere w/ the realistic physics-based app Mini Golf Club—over 50 challenging holes to play!]]></tweet>
       <bitlyW8>http://bit.ly/1tfGu4l</bitlyW8>
 	  <bitly>http://bit.ly/1tfzCDU</bitly>
-      <id>false</id>
+      <id>649347b1-bfde-4d53-a79e-c25a54b66833</id>
       <priority>151027</priority>
       <categories>
 	    <category>Kids</category>
@@ -1726,7 +1716,7 @@ http://windowsphoneparent.com/best-productivity-dial-apps-for-parents-on-windows
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Quick! What's 95 + 75? Try NumberTap & test how fast you can solve math problems. Leaderboards & stats available!]]></tweet>
-      <bitlyW8>http://bit.ly/1F2JIMN</bitlyW8>
+      <bitlyW8>http://bit.ly/17Wo1kb</bitlyW8>
 	  <bitly>http://bit.ly/1ukRloM</bitly>
       <id>4594645f-fd41-48bd-b12e-b6b1f9fcea40</id>
       <priority>140121</priority>
