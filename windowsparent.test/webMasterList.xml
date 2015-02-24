@@ -36,7 +36,7 @@
       <app>
       <name>Skype</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/dec20714-8a1b-4512-866f-7e9694882636</image>
-	  <win8>5e19cc61-8994-4797-bdc7-c21263f6282b</win8>     
+	  <win8>false</win8>     
 	  <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Get in touch with your loved ones from everywhere: free calls, videocalls and much more!]]></tweet>
@@ -2085,6 +2085,45 @@
       <theuglys />
       <theamazings />
       <video />      <versionreviewed />
+      <ratingdetails />
+    </app>
+      <app>
+      <name>Minecraft Video Guide</name>
+	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/335910bd-763b-4050-a4ca-a06a6b73cd20</image>
+	  <win8>false</win8> 
+      <review>0</review>
+      <free>TRY FREE!</free>
+      <tweet><![CDATA[Play Minecraft better w/ Minecraft Video Guide: it collects top videos on game strategies, tricks, secrets & more!]]></tweet>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/14e3qly</bitly>
+      <id>72f6be04-8447-4875-b074-599f88d8fd0d</id>
+      <priority>140102</priority>
+      <categories>
+	  	<category>Kids</category>
+		<category>Parents</category>
+		<category>Featured</category>
+        <category>Games</category>
+        <category>Older Child (9-12 years)</category>
+        <category>Puzzle Adict</category>
+        <category>Puzzles and Strategy</category>
+        <category>Teenager</category>
+      </categories>
+      <filters>
+        <filter>10 years old</filter>
+        <filter>11 years old</filter>
+        <filter>12 years old</filter>
+        <filter>9 years old</filter>
+        <filter>teenager</filter>
+      </filters>
+      <url>http://windowsphoneparent.com/physics-game-kids-adults-windows-phone-charlie-chucker/</url>
+      <rating>0</rating>
+      <related />
+      <thebottomline />      <thegoods />
+      <thebads />
+      <theuglys />
+      <theamazings />
+      <video />      
+	  <versionreviewed />
       <ratingdetails />
     </app>
       <app>
