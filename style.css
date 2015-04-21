@@ -1,0 +1,296 @@
+﻿html { -ms-text-size-adjust:none }
+
+body {background-color:#f4f4f4;
+	  font-family:'Segoe UI',Helvetica,Arial,'Sans-Serif';
+	  color: #333;
+	  margin:0 auto;
+	  padding: 0;
+	  }
+	  
+#header {
+     position: relative;
+     z-index: 162;
+}
+
+a {
+	color: #333;
+	text-decoration:none;
+}
+
+
+a:hover {
+	color: #9B4F96; 
+	text-decoration:none;
+}
+
+.content {
+margin: 0 auto;
+width: 896px;
+zoom: 1;
+}
+
+.appMainContainer{
+display:block;
+overflow:hidden;
+/*width:100%;*/
+	}
+	
+.nav-selected {
+color: #C76FC1;
+
+}
+
+#main {
+overflow: hidden;
+clear: both;
+min-height: 505px;
+}
+h1, .title1 {
+font: 36px/48px 'Segoe UI Light',Helvetica,Arial,'Sans-Serif';
+color: #333;
+padding: 0;
+text-align: left;
+text-decoration: none;
+direction: ltr;
+display: block;
+-webkit-margin-before: 0.67em;
+-webkit-margin-after: 0.67em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+margin-top:0px;
+}
+
+
+ul.mainNavigation{
+	list-style-type:none;
+	text-align: right;
+	margin-bottom: 0px;
+
+
+}
+div.mainNavigation{
+display: block;
+float: right;
+margin-top: 25px;
+
+}
+
+div.categoriesNavigation
+{float:left;
+height:100%; display:block;}
+
+div.results
+{display:block;
+float: left;
+}
+
+
+li.mainNavigation
+{
+display:inline;
+padding-left:20px;
+}
+
+ul.mainsubNavigation{
+	list-style-type:none;
+	text-align: left;
+
+}
+div.mainsubNavigation{
+display:block;
+float:leftt;
+width:100%;
+
+}
+
+
+li.mainsubNavigation
+{
+display:inline;
+padding-right:20px;
+}
+
+li.filtersubNavigation
+{
+display:inline;
+padding-right:15px;
+font:14px/22px 'Segoe UI',Helvetica,Arial,'Sans-Serif';
+}
+
+ul {
+list-style: none;
+padding: 0;
+text-decoration: none;
+direction: ltr;
+display: block;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+margin-top: 0px;
+}
+
+.logo {
+	display:block;
+	float:left;
+	height:40px;
+	
+}
+	  
+h4 { font-size:16px; margin-top:1px; margin-bottom:5px; color: #333;}
+
+.app-container {width:163px; height:335px; margin-bottom:10px; margin-left:10px; float:left; word-wrap: break-word; font-size: 14px; }
+.app-image { position:relative; width:163px; height:163px;}
+
+.stores-links
+{
+display:block;
+background-color:#e9e9e9;
+filter:alpha(opacity=90); /* IE */
+-moz-opacity:0.9; /* Mozilla */
+opacity: 0.9; /* CSS3 */
+position:absolute;
+bottom:0;
+width:163px;
+height:32px;
+transition:height 1s;
+-webkit-transition:height 1s; /* Safari */
+text-align:center;
+padding-top:3px;
+
+}
+
+#store{ padding-right:10px; border:0}
+
+ul.categoryNav {
+float: left;
+width: 203px;
+}
+.navText {
+color: #333;
+font: 14px/22px 'Segoe UI',Helvetica,Arial,'Sans-Serif';
+}
+
+body.appListPage div.appSet {
+float: right;
+width: 665px;
+}
+
+.appSet>.filters {
+float: left;
+width: 100%;
+}
+
+.tout-small{float:left; width:179px; height:179px;}
+
+.tout-big{
+	float:left; 
+	width:358px; 
+	height:358px;
+    *height:auto;
+    _height:auto;
+	 height:auto\0/;
+	 height:auto\9;
+
+}
+
+.header-iframe{
+	width:100%;
+	height:100%;
+	
+}
+
+.height-iframe {
+height: 50px;
+margin-top: 15px;
+}
+
+.right-sub-nav{
+	margin-left:10px;
+}
+
+
+.bottom-iframe{
+	width:100%;
+	height:75px;
+}
+
+.social-media-iframe{
+	height:30px;
+}
+
+.social-media-icons{
+	width:30px;
+	height:30px;
+}
+
+.social-media{
+	text-align:right;
+}
+
+.promotional_stripe{
+	width:100%; height:500px; margin-top:45px;
+	
+}
+#blue{
+	background-color:#00bcf2;
+}
+
+#purple{
+	background-color:#9c5098;
+}
+
+.text-stripe{padding-top: 150px;
+font-size: 1.800em; }
+
+#white{color: white;}
+
+#orange{background-color:#fa6800;}
+
+#wpcolor{color:#68217a;}
+
+.subtext-stripe{
+	font-size: 20px;
+    text-align: right;
+    margine-top: 15px;
+	height:30px:
+	
+}
+
+.go-button{
+float: right;
+margin-top: 5px;
+}
+
+.go-button-text{
+	float: right;
+padding-bottom: 5px;
+padding-right: 10px;
+}
+
+div.review-left-container {
+float: left;
+height: 100%;
+display: block;
+width: 252px;
+margin-right: 50px;
+}
+
+div.review-breakdown{
+	font: 25px/1.1 'Segoe UI Light';
+	padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+div.windows-rating-padding{
+	padding-top: 10px;
+    height: 30px;
+}
+
+.rating-starts-images{
+	padding-left: 16px;
+}
+.review-tile-image{
+	width:252px;
+	height:252px;
+}
