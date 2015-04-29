@@ -9,7 +9,7 @@ else
   xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
   }
 
-xmlhttp.open("GET","../../../../windowsparent.com/navigation_kids.xml",false);
+xmlhttp.open("GET","../../../../navigation_kids.xml",false);
 xmlhttp.send();
 xmlDoc=xmlhttp.responseXML; 
 
@@ -83,7 +83,7 @@ else
   xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
   }
 
-xmlhttp.open("GET","../../../../windowsparent.com/webMasterList.xml",false);
+xmlhttp.open("GET","../../../../webMasterList.xml",false);
 xmlhttp.send();
 xmlDoc=xmlhttp.responseXML; 
 
@@ -118,20 +118,20 @@ for (i=0;i<x.length;i++)
       		document.write("<a href=\"http://apps.microsoft.com/webpdp/app/");
       		document.write(x[i].getElementsByTagName("win8")[0].childNodes[0].nodeValue);
       		document.write("\">");
-      		document.write("<img id=\"store\" alt=\"W8\" onmouseout=\"this.src='http://windowsparent.com/images/W8.png'\"  onmouseover=\"this.src='http://windowsparent.com/images/W8_hover.png'\" src=\"http://windowsparent.com/images/W8.png\">");
+      		document.write("<img id=\"store\" alt=\"W8\" onmouseout=\"this.src='images/W8.png'\"  onmouseover=\"this.src='images/W8_hover.png'\" src=\"images/W8.png\">");
       		document.write("</a>");
          }  
 	     if (x[i].getElementsByTagName("id")[0].childNodes[0].nodeValue != "false")
          {
            document.write("<a href=\"http://www.windowsphone.com/s?appid=");
            document.write(x[i].getElementsByTagName("id")[0].childNodes[0].nodeValue);
-           document.write("\"><img id=\"store\"  alt=\"Wp7\" onmouseout=\"this.src='http://windowsparent.com/images/WP7.png'\"  onmouseover=\"this.src='http://windowsparent.com/images/WP7_hover.png'\" src=\"http://windowsparent.com/images/WP7.png\"></a>");
+           document.write("\"><img id=\"store\"  alt=\"Wp7\" onmouseout=\"this.src='images/WP7.png'\"  onmouseover=\"this.src='images/WP7_hover.png'\" src=\"images/WP7.png\"></a>");
 	    }
 	    if (x[i].getElementsByTagName("review")[0].childNodes[0].nodeValue != "0")
          {
            document.write("<a href=\"");
            document.write(x[i].getElementsByTagName("review")[0].childNodes[0].nodeValue);
-		   document.write("\"><img id=\"store\"  alt=\"rating\" onmouseout=\"this.src='http://windowsparent.com/images/ratings/rating_");
+		   document.write("\"><img id=\"store\"  alt=\"rating\" onmouseout=\"this.src='images/ratings/rating_");
 		   document.write(x[i].getElementsByTagName("rating")[0].childNodes[0].nodeValue);
            document.write(".png'\"  onmouseover=\"this.src='http://windowsparent.com/images/ratings/rating_");
 		   document.write(x[i].getElementsByTagName("rating")[0].childNodes[0].nodeValue);
@@ -169,7 +169,7 @@ else
   xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");
   }
 
-xmlhttp.open("GET","../../../../windowsparent.com/webMasterList.xml",false);
+xmlhttp.open("GET","../../../../webMasterList.xml",false);
 xmlhttp.send();
 xmlDoc=xmlhttp.responseXML; 
 var n=xmlDoc.getElementsByTagName("app");
@@ -186,7 +186,7 @@ for (i=0;i<n.length;i++)
 	  document.write("<div class=\"review-left-container\"><img src=\"");
 	  document.write(n[i].getElementsByTagName("image")[0].childNodes[0].nodeValue);	
 	  document.write("\" class=\"review-tile-image\"> ");
-	  document.write("<div class=\"windows-rating-padding\">Windows Parent Rating<img src=\"http://windowsparent.com/images/ratings/rating_stars_");
+	  document.write("<div class=\"windows-rating-padding\">Windows Parent Rating<img src=\"images/ratings/rating_stars_");
 	  document.write(n[i].getElementsByTagName("rating")[0].childNodes[0].nodeValue);
 	  document.write(".png\" alt=\"rating\" class=\"rating-starts-images\"></div>");
 	  
@@ -194,14 +194,14 @@ for (i=0;i<n.length;i++)
          {
            document.write("<a href=\"http://www.windowsphone.com/s?appid=");
            document.write(n[i].getElementsByTagName("id")[0].childNodes[0].nodeValue);
-           document.write("\"><img src=\"http://windowsparent.com/images/windows-phone-store-button.png\" alt=\"Download on Windows Phone\" border=0></a>");           
+           document.write("\"><img src=\"images/windows-phone-store-button.png\" alt=\"Download on Windows Phone\" border=0></a>");           
 	    }
 		
       if (n[i].getElementsByTagName("win8")[0].childNodes[0].nodeValue != "false")
          {
       		document.write("<a href=\"http://apps.microsoft.com/webpdp/app/");
       		document.write(n[i].getElementsByTagName("win8")[0].childNodes[0].nodeValue);
-      		document.write("\"><img src=\"http://windowsparent.com/images/windows-store-button.png\" alt=\"Download on Windows 8\" border=0></a>");
+      		document.write("\"><img src=\"images/windows-store-button.png\" alt=\"Download on Windows 8\" border=0></a>");
 
          } 
 	  document.write("</div><div class=\"appMainContainer\">");
