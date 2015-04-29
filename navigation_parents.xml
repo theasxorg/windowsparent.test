@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation>
+  <root>best-apps-for-windows-phone-8</root>
+  <nav>
+       <title>featured</title>
+       <link>../all/</link>
+  </nav>
+  <nav>
+       <title>finances</title>
+       <link>../best-finance-apps-for-windows-and-windows-phone/</link>
+  </nav>
+  <nav>
+       <title>health</title>
+       <link>../best-health-fitness-apps-for-windows-and-windows-phone/</link>
+  </nav>
+  <nav>
+       <title>parenting tools</title>
+       <link>../best-parenting-tools-for-windows-and-windows-phone/</link>
+  </nav>
+  <nav>
+       <title>photography and videos</title>
+       <link>../best-photography-video-apps-for-windows-and-windows-phone/</link>
+  </nav>
+  <nav>
+       <title>productivity</title>
+       <link>../best-productivity-apps-for-windows-and-windows-phone/</link>
+  </nav>
+  <nav>
+       <title>puzzle addict</title>
+       <link>../best-puzzles-apps-for-windows-and-windows-phone/</link>
+  </nav>
+  <nav>
+       <title>social networking</title>
+       <link>../best-social-networking-apps-for-windows-and-windows-phone/</link>
+  </nav>
+  <nav>
+       <title>stress relievers</title>
+       <link>../best-stress-relievers-apps-for-windows-and-windows-phone/</link>
+  </nav>
+  <nav>
+       <title>study aids</title>
+       <link>../best-study-aids-university-apps-for-windows-and-windows-phone/</link>
+  </nav>
+  <nav>
+       <title>traveling</title>
+       <link>../best-traveling-translator-apps-for-windows-and-windows-phone/</link>
+  </nav>
+  <nav>
+       <title>holiday fun</title>
+       <link>../best-holiday-christmas-halloween-apps-for-windows-and-windows-phone/</link>
+  </nav>
+</navigation>
