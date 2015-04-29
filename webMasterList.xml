@@ -2,6 +2,112 @@
 <masterList>
   <date>2012-10-25T17:06:00</date>
   <appList>
+  <app>
+   <name>Saski Studio Calculator</name>
+	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/e9deb086-21e7-443e-8815-f38801a4e7c4</image>
+	   <win8>false</win8>    
+	<review>0</review>
+      <free>FREE APP!</free>
+      <tweet><![CDATA[Get children excited by Maths with the sweetest calculator ever: it makes counting not only easy but also rewarding an fun!]]></tweet>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/SS_Cal</bitly>
+      <id>9b1a9ac2-0825-433c-81f1-63e3669c2962</id>
+      <priority>290515</priority>
+      <categories>
+		<category>Kids</category>
+		<category>Featured</category> 
+        <category>Geeky</category>
+        <category>Math</category>
+        <category>Older Child (9-12 years)</category>
+        <category>Pre-schooler (3-5 years)</category>
+        <category>Young Child (5-8 years)</category>
+      </categories>
+      <filters />
+      <url>http://windowsphoneparent.com/best-productivity-list-task-apps-for-parents-on-windows-phone-a-math-facts/</url>
+      <rating>1</rating>      <related />
+      <thebottomline />      <thegoods />
+      <thebads />
+      <theuglys />
+      <theamazings />
+      <video />      <versionreviewed />
+      <ratingdetails />
+    </app>
+  <app>
+      <name>BizXpert Invoice and Inventory</name>
+	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/bbc9d35f-c3aa-424d-a99f-efff872ee8e2</image>
+	  <win8>false</win8> 
+      <review>0</review>
+      <free>FREE APP!</free>
+      <tweet><![CDATA[Easily make, send, and print invoices w/BizXpert! It also manages expenses, inventories, schedules, and more!]]></tweet>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1OZTu2R</bitly>
+      <id>9c39b011-8cfa-446d-873f-f07dd2cffa37</id>
+      <priority>290415</priority>
+      <categories>
+		<category>Parents</category>
+		<category>Featured</category>
+        <category>Finances</category>
+        <category>Productivity</category>
+      </categories>
+      <filters />
+      <url>http://windowsphoneparent.com/app-to-keep-track-of-your-finances-for-windows-phone-budget-buddy</url>
+      <rating>0</rating>
+      <related>
+        <rapp>e9021c97-0fa7-4121-a869-8858d80ce4e6</rapp>
+      </related>
+      <thebottomline />      <thegoods />
+      <thebads />
+      <theuglys />
+      <theamazings />
+      <video />      <versionreviewed />
+      <ratingdetails />
+    </app>
+  <app>
+      <name>Real Kakuro - Cross Sums</name>
+      <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/7b8e2a40-a678-47d5-9966-327967054942</image>
+      <win8>52902b76-e7de-4464-9b1c-717033315e95</win8> 
+      <review>0</review>
+      <free>FREE APP! </free>
+      <tweet><![CDATA[Tease your brain with these unique logic puzzles: an awesome mix of numbers and crosswords that will challenge your mind!]]></tweet>
+      <bitlyW8>http://bit.ly/1CWtFx5</bitlyW8>
+      <bitly>http://bit.ly/1FnxCt6</bitly>
+      <id>8ac639b7-143a-40db-9f14-89d7fc5b3718</id>
+      <priority>150408</priority>
+      <categories>
+        <category>Kids</category>
+        <category>Parents</category>
+        <category>Featured</category>
+        <category>Games</category>
+        <category>Older Child (9-12 years)</category>
+        <category>Puzzle Adict</category>
+        <category>Puzzles and Strategy</category>
+        <category>Stress Relievers</category>
+        <category>Teenager</category>
+        <category>Young Child (5-8 years)</category>
+        <category>Math</category>
+      </categories>
+      <filters>
+        <filter>10 years old</filter>
+        <filter>11 years old</filter>
+        <filter>12 years old</filter>
+        <filter>5 years old</filter>
+        <filter>6 years old</filter>
+        <filter>7 years old</filter>
+        <filter>8 years old</filter>
+        <filter>9 years old</filter>
+        <filter>teenager</filter>
+        <filter>games</filter>
+      </filters>
+      <url>http://windowsphoneparent.com/best-puzzle-apps-your-own-picture-for-kids-parents-on-windows-phone-jigsolve-me/</url>
+      <rating>5</rating>
+      <related />
+      <thebottomline />      <thegoods />
+      <thebads />
+      <theuglys />
+      <theamazings />
+      <video />      <versionreviewed />
+      <ratingdetails />
+    </app>
 <app>
       <name>uTraveler</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/f7e9aeb7-d79e-4541-8388-82d64f4c5466</image>
