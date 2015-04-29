@@ -108,7 +108,7 @@
       <video />      <versionreviewed />
       <ratingdetails />
     </app>
-<app>
+    <app>
       <name>uTraveler</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/f7e9aeb7-d79e-4541-8388-82d64f4c5466</image>
 	  <win8>false</win8>     
@@ -138,7 +138,7 @@
       <video />      <versionreviewed />
       <ratingdetails />
     </app>
-   <app>
+    <app>
       <name>Mash&amp;Co</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/8a80d935-11ce-4d9e-b301-297e235d207a</image>
 	  <win8>false</win8>
@@ -169,7 +169,7 @@
 	  <versionreviewed />
       <ratingdetails />
     </app>
-<app>
+	 <app>
       <name>Forestry</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/d46771ff-2a99-4466-a485-038c8806ad00</image>
 	  <win8>false</win8>
@@ -200,14 +200,15 @@
 	  <versionreviewed />
       <ratingdetails />
     </app>
-   <app>
+      <app>
       <name>Skype</name>
-	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/ec9828e3-6d00-45d6-bc88-35533091f9f3</image>
+	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/dec20714-8a1b-4512-866f-7e9694882636</image>
 	  <win8>5e19cc61-8994-4797-bdc7-c21263f6282b</win8>     
-	 <review>0</review>
+	  <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Get in touch with your loved ones from everywhere: free calls, videocalls and much more!]]></tweet>
-      <bitly>http://bit.ly/1zTPqPS</bitly>
+      <bitlyW8>http://bit.ly/1E3IGwo</bitlyW8>
+	  <bitly>http://bit.ly/1zTPqPS</bitly>
       <id>c3f8e570-68b3-4d6a-bdbb-c0a3f4360a51</id>
       <priority>150205</priority>
       <categories>
@@ -230,56 +231,29 @@
       <ratingdetails />
     </app>
   <app>
-      <name>My Cheerful Letters</name>
-	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/1a64e477-5f9b-4cbc-8f26-23762c053d16</image>
-	  <win8>false</win8>    
-	<review>0</review>
-      <free>FREE APP!</free>
-      <tweet><![CDATA[Teach kids Arabic/English/Spanish w/ My Cheerful Letters: cute graphics & audio allow you to learn the fun way!]]></tweet>
-      <bitly>http://bit.ly/1JQcgJf</bitly>
-      <id>c2dc9e31-e240-4614-8146-e97bf9a1f047</id>
-      <priority>150129</priority>
-      <categories>
-	<category>Kids</category>
-	<category>Featured</category> 
-        <category>Activity Book</category>
-        <category>Pre-schooler (3-5 years)</category>
-        <category>Young Child (5-8 years)</category>
-        <category>Foreign Language</category>
-      </categories>
-      <filters>
-        <filter>6 years old</filter>
-        <filter>3 years old</filter>
-        <filter>4 years old</filter>
-        <filter>5 years old</filter>
-        <filter>educational apps</filter>
-      </filters>
-      <url>http://windowsphoneparent.com/best-preschool-apps-for-toddler-kids-on-windows-phone-2-3-y-o-s-quiz-free</url>
-      <rating>0</rating>
-      <related />
-      <thebottomline />
-      <thegoods />
-      <thebads />
-      <theuglys />
-      <theamazings />
-      <video />      <versionreviewed />
-      <ratingdetails />
-    </app>
- <app>
       <name>MixaMonster</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/74bb17ce-c24b-4872-908c-ac23cc4a3fa9</image>
 	  <win8>false</win8> 
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Let loveable monsters teach you to mix colors in Mixamonster. The app features cute graphics & engaging gameplay!]]></tweet>
-      <bitly>http://bit.ly/15MwAwg</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/15MwAwg</bitly>
       <id>0b834072-966d-4b0e-a4de-c0fa59a50cac</id>
       <priority>150129</priority>
       <categories>
-	<category>Kids</category>
-	<category>Featured</category> 
+		<category>Kids</category>
+		<category>Parents</category>
+		<category>Featured</category>
+        <category>Arts</category>
+        <category>Coloring</category>
         <category>Games</category>
         <category>Pre-schooler (3-5 years)</category>
+        <category>Older Child (9-12 years)</category>
+        <category>Puzzle Adict</category>
+        <category>Puzzles and Strategy</category>
+        <category>Stress Relievers</category>
+        <category>Teenager</category>
         <category>Young Child (5-8 years)</category>
 	<category>Arts</category>
       </categories>
@@ -303,16 +277,54 @@
         <versionreviewed />
       <ratingdetails />
     </app>
-    <app>
+  <app>
+      <name>My Cheerful Letters</name>
+	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/1a64e477-5f9b-4cbc-8f26-23762c053d16</image>
+	  <win8>false</win8>    
+	  <review>0</review>
+      <free>FREE APP!</free>
+      <tweet><![CDATA[Teach kids Arabic/English/Spanish w/ My Cheerful Letters: cute graphics & audio allow you to learn the fun way!]]></tweet>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1JQcgJf</bitly>
+      <id>c2dc9e31-e240-4614-8146-e97bf9a1f047</id>
+      <priority>150129</priority>
+      <categories>
+	    <category>Kids</category>
+	    <category>Featured</category> 
+        <category>Activity Book</category>
+        <category>Pre-schooler (3-5 years)</category>
+        <category>Young Child (5-8 years)</category>
+        <category>Foreign Language</category>
+      </categories>
+      <filters>
+        <filter>6 years old</filter>
+        <filter>3 years old</filter>
+        <filter>4 years old</filter>
+        <filter>5 years old</filter>
+        <filter>educational apps</filter>
+      </filters>
+      <url>http://windowsphoneparent.com/best-preschool-apps-for-toddler-kids-on-windows-phone-2-3-y-o-s-quiz-free</url>
+      <rating>0</rating>
+      <related />
+      <thebottomline />
+      <thegoods />
+      <thebads />
+      <theuglys />
+      <theamazings />
+      <video />      <versionreviewed />
+      <ratingdetails />
+    </app>
+	   <app>
       <name>Mini Golf Club</name>
-	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/b8c63a2d-4408-452d-b607-a983f6018af7</image>
-	  <win8>db80f0ff-c94f-4920-9079-6e1b646c3172</win8> 
+	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/673a70ca-fba8-49c3-9543-710bade10674</image>
+	  <win8>db80f0ff-c94f-4920-9079-6e1b646c3172</win8>
       <review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Practice your swing anywhere w/ the realistic physics-based app Mini Golf Club—over 50 challenging holes to play!]]></tweet>
-      <bitly>http://bit.ly/JTAEx2</bitly>
+      <bitlyW8>http://bit.ly/1tfGu4l</bitlyW8>
+	  <bitly>http://bit.ly/1tfzCDU</bitly>
       <id>649347b1-bfde-4d53-a79e-c25a54b66833</id>
-      <priority>141029</priority>
+      <priority>151027</priority>
       <categories>
 	    <category>Kids</category>
 		<category>Parents</category>
@@ -344,10 +356,11 @@
       <name>AlphaMatch Christmas</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/fac42c5d-c130-4b4c-a623-cadcdece5c77</image>
 	  <win8>false</win8>    
-	<review>0</review>
+	  <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Match letters/objects to each other or their first-letter sounds in the themed memory game AlphaMatch Christmas!]]></tweet>
-      <bitly>http://bitly.com/Ab2sIm</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1yGZnOU</bitly>
       <id>48730d23-01c8-4703-96d7-99d051636235</id>
       <priority>141210</priority>
       <categories>
@@ -376,7 +389,8 @@
       <review>0</review>
       <free />
       <tweet><![CDATA[Play charades with Guess! Tilt to switch cards—standard & custom decks available. Take videos of your game, too!]]></tweet>
-      <bitly>http://bit.ly/184mPGn</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1rCGOnE</bitly>
       <id>e9ca5361-7c6f-4f5d-99dd-a3885c8c5e6c</id>
       <priority>141128</priority>
       <categories>
@@ -413,7 +427,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Capture more memories with your camera and Phototag! It records weather, baby info & more! Sharing & filters enabled!]]></tweet>
-      <bitly>http://bit.ly/JTAEx2</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/13ngdVW</bitly>
       <id>7994a337-7253-4ecd-938a-753cba5e1424</id>
       <priority>141030</priority>
       <categories>
@@ -444,7 +459,8 @@
       <review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Domino Scorekeeper Deluxe is the perfect app for point and score keeping. Add as many players as you'd like!]]></tweet>
-      <bitly>http://bit.ly/JTAEx2</bitly>
+      <bitlyW8>http://bit.ly/1ud1d9I</bitlyW8>
+	  <bitly />
       <id>false</id>
       <priority>141029</priority>
       <categories>
@@ -482,7 +498,8 @@
       <review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Looking for a quick, simple game? Try Revers9 & sort 9 randomly generated numbers within a specific period of time!]]></tweet>
-      <bitly>http://bit.ly/JTAEx2</bitly>
+      <bitlyW8>http://bit.ly/1KPIV0o</bitlyW8>
+	  <bitly>http://bit.ly/1BJJXKf</bitly>
       <id>b5c0ab3d-278a-41cc-8ab7-a32d4d7b0431</id>
       <priority>141021</priority>
       <categories>
@@ -527,7 +544,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Help preschoolers to grade schoolers learn simple math, sorting, colors & more w/ Preschool Doctor Vet Games!]]></tweet>
-      <bitly>http://bitly.com/KvDyFL</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1Eb9MSD</bitly>
       <id>be1fb472-dbcf-4348-93c4-bf9b26a535ec</id>
       <priority>120138</priority>
       <categories>
@@ -538,7 +556,6 @@
         <category>Older Child (9-12 years)</category>
         <category>Pre-schooler (3-5 years)</category>
         <category>Young Child (5-8 years)</category>
-        <category>Pre-schooler (3-5 years)</category>
       </categories>
       <filters />
       <url>http://windowsphoneparent.com/best-productivity-list-task-apps-for-parents-on-windows-phone-a-math-facts/</url>
@@ -557,7 +574,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Make photo slideshows w/ Video Memories & add your music or use enhancing filters, effects, frames, fonts & more!]]></tweet>
-      <bitly>http://bit.ly/JTAEx2</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1o2WS5P</bitly>
       <id>107a3926-3aa0-4248-9299-2a3b25445db4</id>
       <priority>140203</priority>
       <categories>
@@ -596,7 +614,8 @@
       <review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[XyloFun plays different musical instruments / unique sounds & even plays back recorded voices in fun parrot talk!]]></tweet>
-      <bitly>http://bit.ly/sgy390</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1AtjBYv</bitly>
       <id>4ee3ddc8-b437-4a47-952f-8cf70d53e791</id>
       <priority>141009</priority>
       <categories>
@@ -641,7 +660,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Math Stars has timed/non-timed games for 1st–4th graders & a calculator that shows the remainder in div problems!]]></tweet>
-      <bitly>http://bitly.com/KvDyFL</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1D0EoWM</bitly>
       <id>1c396c32-5404-44f7-9b37-89057eaf1b11</id>
       <priority>141010</priority>
       <categories>
@@ -670,8 +690,9 @@
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[nuiSense pro lets you manage your files & share them via SNS—DLNA support, customizable folders & more available!]]></tweet>
-      <bitly>http://bitly.com/GJfex8</bitly>
-      <id>false</id>
+      <bitlyW8>http://bit.ly/1t02EqM</bitlyW8>
+      <bitly />
+	  <id>false</id>
       <priority>140723</priority>
       <categories>
 	<category>Today</category>
@@ -696,7 +717,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Try GS Kids! Preschool Letters: It teaches English through fun, eye-catching games & rewards that kids will love!]]></tweet>
-      <bitly>http://bit.ly/SpMdh7</bitly>
+      <bitlyW8>http://bit.ly/1zOHQEa</bitlyW8>
+	  <bitly>http://bit.ly/15r0BS3</bitly>
       <id>0aa74861-a6bb-4b51-891e-2b2d7d216722</id>
       <priority>140121</priority>
       <categories>
@@ -732,7 +754,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Learn Mandarin Chinese w/ HANYU,CO! It has 100s of lessons, study aids & reports to help you master the language!]]></tweet>
-      <bitly>http://bitly.com/xz58PW</bitly>
+      <bitlyW8>http://bit.ly/1yqMjrD</bitlyW8>
+	  <bitly>http://bit.ly/1BEOJoF</bitly>
       <id>68f21ddd-b8cb-4763-86d1-ac3025a8ea9d</id>
       <priority>141003</priority>
       <categories>
@@ -761,7 +784,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[WhatsAlarm analyzes your sleep & wakes you up at the best time—smart restrictions even ensure you don't oversleep!]]></tweet>
-      <bitly>mazoocard Lite</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1B2SS7K</bitly>
       <id>7a2fd0c1-512a-471e-b9ba-d384108a4307</id>
       <priority>140929</priority>
       <categories>
@@ -787,7 +811,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Do the Pig Jump! Avoid/shoot evil creatures to get the most coins & points in this charming endless running game!]]></tweet>
-      <bitly>http://bit.ly/WU0zLL</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/17UKr4Q</bitly>
       <id>ab4f1f43-1e59-48af-a9b6-c27a8d72e4b6</id>
       <priority>140911</priority>
       <categories>
@@ -828,7 +853,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[RUN & collect items or power-ups in the charming 3D Pet Run! It even has day/night cycle & dynamic weather system!]]></tweet>
-      <bitly>http://bit.ly/WU0zLL</bitly>
+      <bitlyW8>http://bit.ly/1nxgYPP</bitlyW8>
+	  <bitly>http://bit.ly/1qd6v0O</bitly>
       <id>0922bea2-a947-4eb7-9209-bf25b7a40f99</id>
       <priority>140902</priority>
       <categories>
@@ -869,7 +895,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Aim for the sky & land breakfast foods on a plate in the quirky physics-based projectile game Scorched Toast!]]></tweet>
-      <bitly>http://bit.ly/14e3qly</bitly>
+      <bitlyW8>http://bit.ly/1veSWAS</bitlyW8>
+	  <bitly>http://bit.ly/1p8KFMe</bitly>
       <id>b5be6492-00c3-4466-8920-0950a7279a86</id>
       <priority>140822</priority>
       <categories>
@@ -911,7 +938,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Keep a rolling ball from falling off its path as you get pts along the way in the 3D game Crazy Ball Adventures!]]></tweet>
-      <bitly>http://bit.ly/14e3qly</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1BJQKnf</bitly>
       <id>91f07f49-c3cf-4bd4-a23e-037509fe8430</id>
       <priority>140814</priority>
       <categories>
@@ -953,7 +981,8 @@
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Scan hard copies of your documents w/ MobileOCR: it makes scanned text editable! Multi-language support available!]]></tweet>
-      <bitly>http://bitly.com/GJfex8</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1yqngex</bitly>
       <id>5be65e29-2aa9-4877-a07c-e2544d6f1127</id>
       <priority>140811</priority>
       <categories>
@@ -979,7 +1008,8 @@
     	<review>0</review>
 		<free>FREE APP!</free>
 		<tweet><![CDATA[Become quick & accurate in spelling with SpellRush! It tracks game performance to help users, kids/adults, improve!]]></tweet>
-		<bitly>TC</bitly>
+		<bitlyW8>http://bit.ly/1oDw3hG</bitlyW8>
+		<bitly>http://bit.ly/1vxBXuG</bitly>
 		<id>71002e7e-03d9-4edd-b1e6-8bfafb5ccf63</id>
 		<priority>140813</priority>
 		<categories> 
@@ -1009,7 +1039,8 @@
 	<review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Never forget to visit places with MemoLocation—just make memos & it'll alert you next time you're near the location!]]></tweet>
-      <bitly>http://bit.ly/yJgKhZ</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/14P3nzP</bitly>
       <id>4dd05aba-ffa3-4d9d-9472-5e6055e5b6ce</id>
       <priority>140813</priority>
       <categories>
@@ -1034,7 +1065,8 @@
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Make collections of contacts, passwords & media w/ MyCollections. It securely saves, imports & restores your data!]]></tweet>
-      <bitly>http://bitly.com/GJfex8</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1zoBso8</bitly>
       <id>fd315271-df07-4891-9883-fc1f71ae845b</id>
       <priority>140723</priority>
       <categories>
@@ -1060,7 +1092,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Learn to Add & Subtract: right answers get stars & help you advance levels. Game achievements and summaries available!]]></tweet>
-      <bitly>http://bitly.com/KvDyFL</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1KSyAU4</bitly>
       <id>dfcc4333-8462-443c-b08b-7004f83434c0</id>
       <priority>140724</priority>
       <categories>
@@ -1089,8 +1122,9 @@
 	  <review>0</review>
       <free>TBD</free>
       <tweet><![CDATA[Make/Share bookmarks of specific times in YouTube vids w/ RecNote—it's speech enabled & Xbox Music integrated too!]]></tweet>
-      <bitly>http://bit.ly/HvT0lY</bitly>
-      <id>false</id>
+      <bitlyW8>http://bit.ly/1DOv1wj</bitlyW8>
+      <bitly />
+	  <id>false</id>
       <priority>140618</priority>
       <categories>
 	  	<category>Kids</category>
@@ -1117,7 +1151,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Play as Switch the hero firefly & run, fly, or shoot evil foes in the magical 3D running game Firefly Runner!]]></tweet>
-      <bitly>http://bit.ly/WU0zLL</bitly>
+      <bitlyW8>http://bit.ly/1KQnpbF</bitlyW8>
+	  <bitly>http://bit.ly/1ywjkYi</bitly>
       <id>f7d7f3a5-6d92-4633-9145-bde42fc18ca3</id>
       <priority>140624</priority>
       <categories>
@@ -1157,7 +1192,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Have your own dessert factory & PoP! bubbles filled w/ ingredients for new recipes. "Combo pops" earn more points!]]></tweet>
-      <bitly> http://bit.ly/Rsdjay </bitly>
+      <bitlyW8>http://bit.ly/1uHfkkM</bitlyW8>
+	  <bitly>http://bit.ly/WPpop</bitly>
       <id>eea26ee0-1379-4bf2-a05e-e292d61fdc66</id>
       <priority>140623</priority>
       <categories>
@@ -1188,7 +1224,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Combine tiles worth diff. points to form the most words in 2 minutes w/ Wordsnap! The game supports 10 languages!]]></tweet>
-      <bitly> http://bit.ly/TT6dfu </bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1yvk4ep</bitly>
       <id>1a84edc5-bd22-4642-a1fd-35a8192f34bd</id>
       <priority>140620</priority>
       <categories>
@@ -1219,7 +1256,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Help a friendly rabbit get past inanimate objects & hostile creatures as it gathers yummy carrots in Mr Rabbit 3D!]]></tweet>
-      <bitly>http://bit.ly/WU0zLL</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1mEb0lx</bitly>
       <id>56b1c2bf-80ea-4729-89c8-749a6c80995f</id>
       <priority>140615</priority>
       <categories>
@@ -1260,7 +1298,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Test your smarts or luck & break the code in IQ Safe! It has over 100 challenges of varying difficulty available!]]></tweet>
-      <bitly>http://bit.ly/166Vfta</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/17UP1jJ</bitly>
       <id>6ff498c4-6c13-467a-b03d-a1a4dc901749</id>
       <priority>140611</priority>
       <categories>
@@ -1302,7 +1341,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Move a tiny ball through a big maze in Crazy Ball Deluxe! Nice gameplay & 3D graphics ensure hours of puzzle fun!]]></tweet>
-      <bitly>http://bit.ly/14e3qly</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1CkYedY</bitly>
       <id>dccc136b-5587-4150-b15c-bdb666c9732f</id>
       <priority>140611</priority>
       <categories>
@@ -1344,7 +1384,8 @@
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Take your dogs to great, new parks w/ Dog Parks: it finds parks in 17 states & 5 more cities (list is growing!).]]></tweet>
-      <bitly>http://bitly.com/Iu3BQs</bitly>
+      <bitlyW8>http://bit.ly/1E4PNVq</bitlyW8>
+	  <bitly>http://bit.ly/1IUNQw4</bitly>
       <id>83f53c42-a077-46dd-85b8-373520301e76</id>
       <priority>140521</priority>
       <categories>
@@ -1371,7 +1412,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Learn about animals, including their sounds & names, w/ Kids zoo, Animal sounds and pictures. Fun & easy to use!]]></tweet>
-      <bitly>http://bit.ly/1gFhpbb</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1DOwMtk</bitly>
       <id>f28359fa-cd23-4e6f-bbb7-029569b9eaed</id>
       <priority>140515</priority>
       <categories>
@@ -1401,7 +1443,8 @@
       <review>0</review>
       <free />
       <tweet><![CDATA[Memorize world flags with Flags: it's a fun quiz app with real aspect-ratio flag pics & an audio pronunciation guide!]]></tweet>
-      <bitly>http://bit.ly/184mPGn</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/14P6mZd</bitly>
       <id>5c199a11-e271-4cea-aa61-fce840dd72b3</id>
       <priority>140425</priority>
       <categories>
@@ -1436,8 +1479,9 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Try Spelling Games: its varied games & customizable word selection let you focus on difficult words in a fun way!]]></tweet>
-      <bitly>http://bit.ly/Q5ba3K</bitly>
-      <id>false</id>
+      <bitlyW8>http://bit.ly/1Mj6cey</bitlyW8>
+      <bitly />
+	  <id>false</id>
       <priority>140424</priority>
       <categories>
 	  	<category>Kids</category>
@@ -1471,7 +1515,8 @@
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Access DJ Le Gammeltoft's station w/ Heartbeats Radio: it works in the background & plays as you use your phone!]]></tweet>
-      <bitly>http://bitly.com/Iu3BQs</bitly>
+      <bitlyW8>http://bit.ly/1AfUMFo</bitlyW8>
+	  <bitly>http://bit.ly/1GqHl8f</bitly>
       <id>af56abcb-aed6-4f2d-9d2f-b0aab0ffa9bd</id>
       <priority>131212</priority>
       <categories>
@@ -1498,7 +1543,8 @@
       <free>TRY FREE!</free>
       <tweet><![CDATA[Is your alarm no longer waking you up in the morning? Customize it w/ Realarm & set which alarm sound plays when!
 ]]></tweet>
-      <bitly>http://bitly.com/KsySz1</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1CxJmt4</bitly>
       <id>26cad058-fc9a-4967-95f0-4e83c09de99e</id>
       <priority>140409</priority>
       <categories>
@@ -1524,7 +1570,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Know animal sounds & names in English or Russian w/ Funny Animals: interactive pics & games ensure fun & learning!]]></tweet>
-      <bitly>http://bit.ly/1gFhpbb</bitly>
+      <bitlyW8>http://bit.ly/1J3p4iF</bitlyW8>
+	  <bitly>http://bit.ly/1nlXktt</bitly>
       <id>e7c0d614-62ad-4f71-9c7c-d7b7da9a6ffa</id>
       <priority>140409</priority>
       <categories>
@@ -1554,7 +1601,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Get out of a maze by solving math problems in Math aMaze! Its study aids & shareable charts make math easy & fun!]]></tweet>
-      <bitly>http://bitly.com/KvDyFL</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/181rVI6</bitly>
       <id>f74f287b-8c1d-40ae-b7aa-ab8da1adcb80</id>
       <priority>140409</priority>
       <categories>
@@ -1583,8 +1631,9 @@
       <review>0</review>
       <free />
       <tweet><![CDATA[Reinforce your maths & science w/ BookBuddi Talking Picture Books: speedread & repetition control also available!]]></tweet>
-      <bitly>http://bit.ly/184mPGn</bitly>
-      <id>false</id>
+      <bitlyW8>http://bit.ly/1Cf417h</bitlyW8>
+      <bitly />
+	  <id>false</id>
       <priority>140327</priority>
       <categories>
 	  	<category>Kids</category>
@@ -1616,7 +1665,8 @@
 	  <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Put your Animal Face on! The app has 15 FREE animal faces you can add to new pics or old ones in your camera roll!]]></tweet>
-      <bitly>http://bit.ly/HvT0lY</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1BAK9wA</bitly>
       <id>202d3001-6ab9-4c91-9a14-990e1ff54611</id>
       <priority>140228</priority>
       <categories>
@@ -1643,7 +1693,8 @@
       <review>0</review>
       <free />
       <tweet><![CDATA[Get 11.000+ Cool Facts to share via text / email / social media! App even reads out to you if you can't tap/swipe!]]></tweet>
-      <bitly>http://bit.ly/184mPGn</bitly>
+      <bitlyW8>http://bit.ly/1DlVMa0</bitlyW8>
+	  <bitly>http://bit.ly/WPfacts</bitly>
       <id>b7e7ce38-91c6-4b5e-9a28-045e8a6d5ace</id>
       <priority>140227</priority>
       <categories>
@@ -1678,7 +1729,8 @@
       <review>0</review>
       <free />
       <tweet><![CDATA[Make audiobooks w/ your own pics & voice recordings or save copies of existing books to your phone w/ Kid Reader!]]></tweet>
-      <bitly>http://bit.ly/1aqn3pZ</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1q0po6g</bitly>
       <id>3a7cfd2d-a7bd-40d8-87d5-cfad343143a8</id>
       <priority>140227</priority>
       <categories>
@@ -1714,8 +1766,9 @@
       <review>0</review>
       <free />
       <tweet><![CDATA[Need to know more about music theory & reading scores? Try 4 Music Rooms: it's designed to help users of all ages!]]></tweet>
-      <bitly>http://bit.ly/1aqn3pZ</bitly>
-      <id>false</id>
+      <bitlyW8>http://bit.ly/1yH12oM</bitlyW8>
+      <bitly />
+	  <id>false</id>
       <priority>140212</priority>
       <categories>
 	    <category>Kids</category>
@@ -1753,8 +1806,9 @@
       <review>0</review>
       <free />
       <tweet><![CDATA[Encourage kids to read with Read 2 Me Toddlers: Read the 1st book in 3 modes: Read to Me, Read by Myself & Autoplay!]]></tweet>
-      <bitly>http://bit.ly/1aqn3pZ</bitly>
-      <id>false</id>
+      <bitlyW8>http://bit.ly/1zWBaCe</bitlyW8>
+      <bitly />
+	  <id>false</id>
       <priority>140207</priority>
       <categories>
 	    <category>Kids</category>
@@ -1791,8 +1845,9 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[How did your home/school looked many years ago? Find out w/ Vantage Point & share pics on social network sites!]]></tweet>
-      <bitly>http://bit.ly/JTAEx2</bitly>
-      <id>false</id>
+      <bitlyW8>http://bit.ly/1lirLfu</bitlyW8>
+      <bitly />
+	  <id>false</id>
       <priority>140203</priority>
       <categories>
         <category>Today</category>
@@ -1830,7 +1885,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Quick! What's 95 + 75? Try NumberTap & test how fast you can solve math problems. Leaderboards & stats available!]]></tweet>
-      <bitly>http://bitly.com/KvDyFL</bitly>
+      <bitlyW8>http://bit.ly/17Wo1kb</bitlyW8>
+	  <bitly>http://bit.ly/1ukRloM</bitly>
       <id>4594645f-fd41-48bd-b12e-b6b1f9fcea40</id>
       <priority>140121</priority>
       <categories>
@@ -1859,7 +1915,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Preschool Games is a lovely app that encourages 3- to 6-year-olds to learn diverse skills they can use in school!]]></tweet>
-      <bitly>http://bit.ly/SpMdh7</bitly>
+      <bitlyW8>http://bit.ly/1ooxqSt</bitlyW8>
+	  <bitly>http://bit.ly/YtPJ2S</bitly>
       <id>eeb91097-0e4e-4b2b-9038-a55a91b0ae26</id>
       <priority>140121</priority>
       <categories>
@@ -1895,7 +1952,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Send love this year w/ Valentines Day Cards: use over 50 cards & photo effects to personalize each greeting!]]></tweet>
-      <bitly>http://bit.ly/V5dhp1</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1wtiK7K</bitly>
       <id>11592be3-1913-4dba-9b5a-59a053ea2edd</id>
       <priority>140121</priority>
       <categories>
@@ -1921,7 +1979,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Play chess alone or w/ friends w/ the award-winning Chess! It has autosave, undo & more: play anytime, anywhere!]]></tweet>
-      <bitly>http://bit.ly/14e3qly</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1CMmaHH</bitly>
       <id>8d004b25-79cc-43d6-80fe-66adff79a5dc</id>
       <priority>140121</priority>
       <categories>
@@ -1964,8 +2023,9 @@
       <review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Puzzle Frenzy Kids has 9- to 36-piece puzzles for kids of all ages. Pause, shuffle pieces & get hints, too!]]></tweet>
-      <bitly>http://bit.ly/JTAEx2</bitly>
-      <id>false</id>
+      <bitlyW8>http://bit.ly/1sWyuF5</bitlyW8>
+      <bitly />
+	  <id>false</id>
       <priority>140116</priority>
       <categories>
 	    <category>Kids</category>
@@ -2003,7 +2063,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Skylanders fans, learn the best game secrets w/ Skylanders Videos! Its offers tips on gameplay, co-op play & more!]]></tweet>
-      <bitly>http://bit.ly/14e3qly</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1KYQzs2</bitly>
       <id>0ae236a0-60d8-4717-8b3e-5ecebd50388f</id>
       <priority>140113</priority>
       <categories>
@@ -2045,7 +2106,8 @@
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Get Calendar Calleague & dial numbers straight from your day/week/month notes, Live Tile & lock-screen updates!]]></tweet>
-      <bitly>http://bitly.com/GJfex8</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1DZvLPe</bitly>
       <id>1da38cd9-4c0c-493f-a98c-f74e86c9e802</id>
       <priority>140109</priority>
       <categories>
@@ -2071,7 +2133,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Handle cash/expenses w/ Money Manager Pro! Voice command, reports, Live Tile, currency converter & more available!]]></tweet>
-      <bitly>http://bit.ly/Ui38FW</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1tsUbq8</bitly>
       <id>ac90a51a-199c-4639-9805-d3e3d62e0fea</id>
       <priority>140109</priority>
       <categories>
@@ -2100,7 +2163,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Lego fans, check out Brick Manager: browse/search the whole Lego catalog so you can manage your own collection!]]></tweet>
-      <bitly>http://bit.ly/X88O7v</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1BcaQVH</bitly>
       <id>f0178f3e-23ce-4365-b415-056c28e60a00</id>
       <priority>140106</priority>
       <categories>
@@ -2136,7 +2200,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Try Christmas Cards & modify tons of templates or use many photo effects so you can add your pics in the cards!]]></tweet>
-      <bitly>http://bit.ly/V5dhp1</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1yTB8Lj</bitly>
       <id>c72bb708-ad49-4296-a197-3b9387941479</id>
       <priority>131230</priority>
       <categories>
@@ -2162,7 +2227,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Buy Interactive Educational Magazine for Kids & access its paid magazines/workbooks—perfect for kids ages 1 to 10!]]></tweet>
-      <bitly>http://bit.ly/SpMdh7</bitly>
+      <bitlyW8>http://bit.ly/1DKhTao</bitlyW8>
+	  <bitly>http://bit.ly/1CMvgEw</bitly>
       <id>5e6482f6-fed1-4be2-a7b0-b5f42ce6ac6e</id>
       <priority>140102</priority>
       <categories>
@@ -2191,51 +2257,14 @@
       <ratingdetails />
     </app>
       <app>
-      <name>Minecraft Video Guide</name>
-	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/335910bd-763b-4050-a4ca-a06a6b73cd20</image>
-	  <win8>false</win8> 
-      <review>0</review>
-      <free>TRY FREE!</free>
-      <tweet><![CDATA[Play Minecraft better w/ Minecraft Video Guide: it collects top videos on game strategies, tricks, secrets & more!]]></tweet>
-      <bitly>http://bit.ly/14e3qly</bitly>
-      <id>72f6be04-8447-4875-b074-599f88d8fd0d</id>
-      <priority>140102</priority>
-      <categories>
-	  	<category>Kids</category>
-		<category>Parents</category>
-		<category>Featured</category>
-        <category>Games</category>
-        <category>Older Child (9-12 years)</category>
-        <category>Puzzle Adict</category>
-        <category>Puzzles and Strategy</category>
-        <category>Teenager</category>
-      </categories>
-      <filters>
-        <filter>10 years old</filter>
-        <filter>11 years old</filter>
-        <filter>12 years old</filter>
-        <filter>9 years old</filter>
-        <filter>teenager</filter>
-      </filters>
-      <url>http://windowsphoneparent.com/physics-game-kids-adults-windows-phone-charlie-chucker/</url>
-      <rating>0</rating>
-      <related />
-      <thebottomline />      <thegoods />
-      <thebads />
-      <theuglys />
-      <theamazings />
-      <video />      
-	  <versionreviewed />
-      <ratingdetails />
-    </app>
-      <app>
       <name>CashBack Categories</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/aa95a595-d4e0-4757-8ae0-78fba9e9f832</image>
 	  <win8>false</win8> 
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Save more with each purchase: CashBack Categories compares credit cards to show which gives you the most rewards!]]></tweet>
-      <bitly>http://bit.ly/Ui38FW</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1CMwq2N</bitly>
       <id>ba2ef5c2-53c6-466e-bfc4-3e46b350cc70</id>
       <priority>121224</priority>
       <categories>
@@ -2262,7 +2291,8 @@
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Create notes on various devices with To-Do Prime: it has color tags, voice recording, alerts & many sorting options!]]></tweet>
-      <bitly>http://bitly.com/GJfex8</bitly>
+      <bitlyW8>http://bit.ly/1mHvsw8</bitlyW8>
+	  <bitly>http://bit.ly/1rE0sym</bitly>
       <id>573f38ed-ee8c-4cb9-93ae-cf6116423372</id>
       <priority>131230</priority>
       <categories>
@@ -2288,7 +2318,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Learn tricks to winning Angry Birds w/ Angry Birds Videos! It offers cartoons, game secrets, walkthroughs & more!]]></tweet>
-      <bitly>http://bit.ly/14e3qly</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1BkwGGs</bitly>
       <id>bb8a31ca-2c6b-4e3d-8645-f564c8bec687</id>
       <priority>131227</priority>
       <categories>
@@ -2331,7 +2362,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Instantly get the discounted total of your purchases w/ Shoppers Calculator—8 kinds of discounts to choose from!]]></tweet>
-      <bitly>http://bit.ly/Ui38FW</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/VHCXfm</bitly>
       <id>92b8b7f2-6572-409e-b18b-0efb3ee752d7</id>
       <priority>121224</priority>
       <categories>
@@ -2360,7 +2392,8 @@
       <review>http://windowsparent.com/app-reviews/best-app-for-texting-holiday-greetings-mytexttwister/</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Express yourself with MyTextTwister & send out a ʎzɐɹɔ holiday cheer with special effect texts, 1200+ emoticons, cute art! ]]></tweet>
-      <bitly>http://bitly.com/rIot89</bitly>
+      <bitlyW8>http://bit.ly/1EgWi7e</bitlyW8>
+	  <bitly>http://bit.ly/1uCwkvz</bitly>
       <id>0db2a471-6f36-4e7f-8e95-acfff7f33f44</id>
       <priority>121224</priority>
       <categories>
@@ -2405,7 +2438,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Tap away snowflakes & snowballs to keep a snowbank from getting too high in the fun Christmas-themed game Snow Day!]]></tweet>
-      <bitly>http://bit.ly/R5yXB5</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1L4Visk</bitly>
       <id>03377586-b9d3-4e4a-b5df-f1d5cf3ea4cf</id>
       <priority>131223</priority>
       <categories>
@@ -2443,7 +2477,8 @@
 	  <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Check out Kitten Videos 1! It features the best videos of the cutest felines—all sorted into 6 fun categories!]]></tweet>
-      <bitly>http://bit.ly/vqbLCq</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/ZYpyCj</bitly>
       <id>55b8f624-c7e7-4e7e-bcf4-b9472709d918</id>
       <priority>120142</priority>
       <categories>
@@ -2478,7 +2513,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[O what fun it is to play SantaRacer!Help Santa & reindeer dash away to collect presents while dodging dangerous rocks!]]></tweet>
-      <bitly>http://bit.ly/R5yXB5</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1AYQvAw</bitly>
       <id>f879503f-058c-4775-94f1-7b4b2b7fffcb</id>
       <priority>121219</priority>
       <categories>
@@ -2514,7 +2550,8 @@
       <review>0</review>
       <free />
       <tweet><![CDATA[Fret no more this holiday! Easily manage ur to do list using Christmas Presents. Track ur $, gifts, names, & more!]]></tweet>
-      <bitly>http://bit.ly/uuMo8j</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/188kY8p</bitly>
       <id>e6ae1eca-20d7-df11-a844-00237de2db9e</id>
       <priority>121217</priority>
       <categories>
@@ -2542,7 +2579,8 @@
 	  <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Miss Tetris? Try BlocksLAN! Make the most rows & take advantage of block-breaking "spells." Solo mode available!]]></tweet>
-      <bitly>http://bitly.com/IKVv1Y</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1L4VszU</bitly>
       <id>4aac1824-2932-4b36-bd9d-b8c42bcd9457</id>
       <priority>131219</priority>
       <categories>
@@ -2573,7 +2611,8 @@
       <review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[A caroling we will go! Play a holiday tune with lyrics using Christmas Bells. Great app to ring in the holiday spirit!]]></tweet>
-      <bitly>http://bit.ly/SRT2sM</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1L4VEz7</bitly>
       <id>133825d5-ccad-4f66-ac1b-d1cf70992e64</id>
       <priority>121207</priority>
       <categories>
@@ -2614,7 +2653,8 @@
 	  <review>0</review>
       <free>TBD</free>
       <tweet><![CDATA[Start Slideshow turns your pictures hub into a fun slideshow of memories—w/ speech navigation & view options, too!]]></tweet>
-      <bitly>http://bit.ly/HvT0lY</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1AYVVvi</bitly>
       <id>33de1deb-b60f-48c0-8506-be82dd40aeb8</id>
       <priority>131218</priority>
       <categories>
@@ -2642,7 +2682,8 @@
       <review>0</review>
       <free />
       <tweet><![CDATA[Get kids rhyming w/ Rhyming with Palmer! It also develops their auditory memory & ability to hear sounds in words!]]></tweet>
-      <bitly>http://bit.ly/1aqn3pZ</bitly>
+      <bitlyW8>http://bit.ly/X6OQg1</bitlyW8>
+	  <bitly>http://bit.ly/1Mh0fif</bitly>
       <id>8d747356-58ac-46d6-bab3-d4d689692f8d</id>
       <priority>131213</priority>
       <categories>
@@ -2680,7 +2721,8 @@
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Sound Meditation's custom sound compilations & meditation guide will help you escape the chaos of everyday life!]]></tweet>
-      <bitly>http://bitly.com/Iu3BQs</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1nIas7P</bitly>
       <id>6dbd4213-763d-4209-a454-8936a5c18e30</id>
       <priority>131212</priority>
       <categories>
@@ -2706,7 +2748,8 @@
       <review>http://windowsparent.com/app-reviews/best-windows-phone-apps-for-christmas-holiday-gifts/</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Gifts—The ideal gift list! Easy to sort & share. Also, keep track of your budget by checking prices on-line!]]></tweet>
-      <bitly>http://bit.ly/sJtHm1</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1yMIfH2</bitly>
       <id>cfd5a18e-1df8-df11-9264-00237de2db9e</id>
       <priority>121210</priority>
       <categories>
@@ -2753,7 +2796,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Does your snowman have hair? Is it happy or sad? You choose! Tons of fun creating your very own with Mr Snowman!]]></tweet>
-      <bitly>http://bit.ly/UAXGdN</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1yMIVw2</bitly>
       <id>f3395a4a-f600-e011-9264-00237de2db9e</id>
       <priority>130109</priority>
       <categories>
@@ -2798,7 +2842,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Its a jolly time making paper snowflakes w/Paper Snow!Put on ur own pics or choose from Xmas backgrounds & share!]]></tweet>
-      <bitly>http://bit.ly/12Cwlxb</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/188q4RY</bitly>
       <id>1455ba2c-f508-4afb-9d40-444489c943fd</id>
       <priority>121220</priority>
       <categories>
@@ -2837,7 +2882,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Try SmartKid Maths: It's a COPPA-compliant app w/ 1000s of exercises perfect for preschoolers & 1st/2nd graders!]]></tweet>
-      <bitly>http://bitly.com/KvDyFL</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1wsftWj</bitly>
       <id>0a4d51e0-464d-4f9b-b6e7-237dd7cec3ae</id>
       <priority>131211</priority>
       <categories>
@@ -2866,7 +2912,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Match letters/objects to each other or their first-letter sounds in the themed memory game AlphaMatch Christmas!]]></tweet>
-      <bitly>http://bitly.com/Ab2sIm</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1zNG7fL</bitly>
       <id>c07bc5b2-5cd8-4374-88d0-12dde8a82d0c</id>
       <priority>131012</priority>
       <categories>
@@ -2894,7 +2941,8 @@
       <review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Preschoolers learn with Slurpy the Frog playing Holidays Slurpy! Easy to follow yet challenging page-turning activities.]]></tweet>
-      <bitly>http://bit.ly/VW84wm</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/17tp8rg</bitly>
       <id>16bc0f18-b88d-4573-8b0c-2433d2b219e0</id>
       <priority>121222</priority>
       <categories>
@@ -2929,7 +2977,8 @@
       <review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Dash over hills of snow thru many levels to help Santa find the lost presents & his reindeer with Sleigh! ]]></tweet>
-      <bitly>http://bit.ly/R1QITd</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1xJVRyC</bitly>
       <id>2abf1795-4607-4c5b-b812-da51a9a179a5</id>
       <priority>121203</priority>
       <categories>
@@ -2972,7 +3021,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[It's never too early to learn daily life skills! DuckieDeck teaches problem solving skills with mini toddler games!]]></tweet>
-      <bitly>http://bit.ly/1gFhpbb</bitly>
+      <bitlyW8>http://bit.ly/1zPsnnw</bitlyW8>
+	  <bitly>http://bit.ly/1o3ZbQC</bitly>
       <id>16ada9a4-873e-4214-9af0-0bb28561e496</id>
       <priority>131112</priority>
       <categories>
@@ -3002,7 +3052,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Do you stand by the highway and watch passing cars until you become nauseous and your eyes hurt? This game is for you!]]></tweet>
-      <bitly>http://bit.ly/MCxpqw</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1GNi6ux</bitly>
       <id>2a00620d-30f1-40e0-85e3-1ff050a9a2d5</id>
       <priority>131111</priority>
       <categories>
@@ -3038,7 +3089,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Customize a moving train with new bells, colors, cars & more with Train Crazy! Collect all the modifications!]]></tweet>
-      <bitly>http://bit.ly/yd1zkq</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/188u8lb</bitly>
       <id>d7ee05f2-a50c-4ce4-8cd5-c5b559e1a0e2</id>
       <priority>120154</priority>
       <categories>
@@ -3070,7 +3122,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Slurpy the Frog teaches kids about shapes, sizes, relationships & world facts. Challenging games, colorful graphics!]]></tweet>
-      <bitly>http://bit.ly/SHIdMV</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1BD1VLZ</bitly>
       <id>db61cc5a-a8ae-4e58-b48e-90a6b66ec0da</id>
       <priority>121108</priority>
       <categories>
@@ -3105,7 +3158,8 @@
       <review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Jigsolve Me is a free jigsaw-puzzle app that uses the WHOLE screen. Adjustable difficulty & personalized puzzles!]]></tweet>
-      <bitly>http://bit.ly/JTAEx2</bitly>
+      <bitlyW8>http://bit.ly/1yryMzX</bitlyW8>
+	  <bitly>http://bit.ly/1yMO07x</bitly>
       <id>dcdc6733-e7cf-40a2-9315-7738b53b4469</id>
       <priority>121128</priority>
       <categories>
@@ -3154,7 +3208,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Telling The Time's fun tests teach kids to tell the time on analog & digital clocks in the 12- OR 24-hour format!]]></tweet>
-      <bitly>http://bit.ly/X88O7v</bitly>
+      <bitlyW8>http://bit.ly/1E57p3x</bitlyW8>
+	  <bitly>http://bit.ly/1yCRrxi</bitly>
       <id>9e64282e-e409-41ff-9a36-8baf460cc9c6</id>
       <priority>121130</priority>
       <categories>
@@ -3194,8 +3249,9 @@
       <review>0</review>
       <free />
       <tweet><![CDATA[No need to call the Dr! Have your children’s medical info in the palm of your hand with Immunization Record]]></tweet>
-      <bitly>http://bit.ly/TFKYwu</bitly>
-      <id>b529e8c0-6bba-4390-a605-b15797941146</id>
+      <bitly>http://bit.ly/1s1iYAS</bitly>
+      <bitlyW8 />
+	  <id>b529e8c0-6bba-4390-a605-b15797941146</id>
       <priority>121203</priority>
       <categories>
 		<category>Parents</category>
@@ -3226,7 +3282,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Learning on-the-go just got easy with Kleio Free’s Sophisticated Study Method which adjusts its difficulty as you learn!]]></tweet>
-      <bitly>http://bit.ly/TUi5Od</bitly>
+      <bitlyW8>http://bit.ly/1DKnkGk</bitlyW8>
+	  <bitly>http://bit.ly/1BRo1hA</bitly>
       <id>740b336d-2bae-e011-a53c-78e7d1fa76f8</id>
       <priority>121212</priority>
       <categories>
@@ -3262,7 +3319,8 @@
       <review>http://windowsparent.com/app-reviews/best-app-for-kids-musical-instrument-toy-xylophone/</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Kids will love Toy Xylophone! Fingers tapping away to Holiday & familiar folk songs on the coolest little keyboard!]]></tweet>
-      <bitly>http://bit.ly/sgy390</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1wOkkEE</bitly>
       <id>f543b62b-d541-e011-854c-00237de2db9e</id>
       <priority>121214</priority>
       <categories>
@@ -3323,7 +3381,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Seasons Greetings texts, gift list, countdown the days til Xmas & ringtone in the holiday spirit with Christmas app!]]></tweet>
-      <bitly>http://bit.ly/V5dhp1</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1yCVABo</bitly>
       <id>65e0a1fa-0c98-4318-be76-64a1bf126d63</id>
       <priority>121218</priority>
       <categories>
@@ -3353,7 +3412,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Who needs an accountant? Or paperwork to bother with? Budget Buddy tracks, analyzes & can snap pics of your spending!]]></tweet>
-      <bitly>http://bit.ly/Ui38FW</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1AzseEP</bitly>
       <id>baa325fc-9b09-413e-9089-be1028380bbc</id>
       <priority>121221</priority>
       <categories>
@@ -3382,7 +3442,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Baby Lullaby helps create calm environments for your baby with music box songs, soothing soundscapes or your recorded voice]]></tweet>
-      <bitly>http://bit.ly/RienO1</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1wsoe2w</bitly>
       <id>e342e6de-9dd8-453a-bc9a-3bbccbb42d80</id>
       <priority>121226</priority>
       <categories>  
@@ -3416,7 +3477,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Sound like a robot, buzz like a bee, speak slow like a turtle! Record, playback & share for more laughs with Fun Voice!]]></tweet>
-      <bitly>http://bit.ly/UxCFV0</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1Gip8o1</bitly>
       <id>77488a2a-30e1-4e48-9a0f-229fd031482b</id>
       <priority>121228</priority>
       <categories>
@@ -3458,7 +3520,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[YouTube’s cool,but not all is for li’l eyes to see. What to do?Try YouTube Junior! Fun for kids, peace of mind for parents.]]></tweet>
-      <bitly>http://bit.ly/VU8Tan</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1BSXeRV</bitly>
       <id>ee1ebf06-1246-4ee1-acec-15d5d010438c</id>
       <priority>130111</priority>
       <categories>
@@ -3499,7 +3562,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[ParentAssist tracks kids' feeding/sleep sched, diaper changes, med history & more—custom charts/reports available!]]></tweet>
-      <bitly>http://bit.ly/ZBxdhg</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1t75FpF</bitly>
       <id>332ad551-976b-4846-9c82-d7e932ac315f</id>
       <priority>130404</priority>
       <categories>
@@ -3534,7 +3598,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Connect shapes w/color lines by linking them & intersect them to create new colors w/ Pandoodle a fun tracing game]]></tweet>
-      <bitly>http://bit.ly/108iFIs</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1JhWEhF</bitly>
       <id>446af1c6-df75-47d6-80f8-75f4d1a70ac1</id>
       <priority>130325</priority>
       <categories>
@@ -3579,7 +3644,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Like cats & playing memory games? Check out CatCentrate: it's the perfect game app for cat lovers of all ages!]]></tweet>
-      <bitly>mazoocard Lite</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/WPcat</bitly>
       <id>53c7c932-ba84-46c4-970c-6819118eadb0</id>
       <priority>140108</priority>
       <categories>
@@ -3626,7 +3692,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Play Math Knockout & make arithmetic fun: Just choose the right operations to combine numbers so they equal 1–24!]]></tweet>
-      <bitly>http://bit.ly/17zNDOS</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1qrm2eo</bitly>
       <id>09e78034-d493-414d-96c9-c4042ba85687</id>
       <priority>130415</priority>
       <categories>
@@ -3673,7 +3740,8 @@
       <review>http://windowsparent.com/app-reviews/math-games-puzzles-sansu/</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Choose numbers to add/subtract/multiply/divide & complete equations as fast as you can in the fun math game Sansu!]]></tweet>
-      <bitly>http://bit.ly/166Vfta</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1JtXEgD</bitly>
       <id>68559153-2790-4246-bdbb-a9eb8ad776d7</id>
       <priority>130428</priority>
       <categories>
@@ -3737,7 +3805,8 @@
       <review>http://windowsparent.com/app-reviews/best-easy-drawing-apps-for-babies-toddlers-toddler-paint/</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[With no complex settings or drop-down boxes, Toddler Paint is one painting app that's truly for little ones. Try it today!]]></tweet>
-      <bitly>http://bit.ly/15oDYwh</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/15DTMNV</bitly>
       <id>bf233aeb-afce-4ba3-beaa-4a59b7284e86</id>
       <priority>130502</priority>
       <categories>
@@ -3788,7 +3857,8 @@
       <review>0</review>
       <free>FREE  APP!</free>
       <tweet><![CDATA[Teach little ones to identify letters, numbers & shapes with Omps: just tap the screen to make them appear!]]></tweet>
-      <bitly>http://bit.ly/16S85Mq</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1L50JaP</bitly>
       <id>c835a4d7-f2e3-4192-95b7-9b517ee7abee</id>
       <priority>130522</priority>
       <categories>
@@ -3826,7 +3896,8 @@
       <review>0</review>
       <free />
       <tweet><![CDATA[Let a cute golden retriever teach you the alphabet w/ Palmer's ABC. It's great for kids to use even on their own!]]></tweet>
-      <bitly>http://bit.ly/1aqn3pZ</bitly>
+      <bitlyW8>http://bit.ly/1B3eR1t</bitlyW8>
+	  <bitly>http://bit.ly/1uDdYKX</bitly>
       <id>3ff8d05d-d6e9-4e1e-9a38-ec8af93ac304</id>
       <priority>130527</priority>
       <categories>
@@ -3865,7 +3936,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[If you're looking for a positive reinforcement award system here is iRewardChart!]]></tweet>
-      <bitly>http://bitly.com/yv5i1i</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1qDegtz</bitly>
       <id>e5432017-f09b-e011-986b-78e7d1fa76f8</id>
       <priority>130619</priority>
       <categories>
@@ -3895,7 +3967,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Need a good math quiz for kids? Try MathMagic! It uses positive reinforcement & vibrant graphics to make math fun!]]></tweet>
-      <bitly>http://bit.ly/rVSFMn</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1yDtBBE</bitly>
       <id>ac02ada5-2ce6-df11-a844-00237de2db9e</id>
       <priority>130624</priority>
       <categories>
@@ -3948,7 +4021,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Build your own zoo w/ the game-quiz app Michael's Math Zoo! Correct answers get you new things to add to your zoo!]]></tweet>
-      <bitly>http://bit.ly/129vySX</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/MathZoo</bitly>
       <id>ab3db041-e4af-4038-a031-1fdac94b27df</id>
       <priority>130703</priority>
       <categories>
@@ -3987,7 +4061,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Instantly make your phone baby-friendly w/ Baby Toy Phone: it entertains kids w/ songs & big, adorable graphics!]]></tweet>
-      <bitly>http://bit.ly/1c2xLqg</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/WPbtp</bitly>
       <id>60b0ddb8-2f7a-461b-93ef-bc63b281ebca</id>
       <priority>130724</priority>
       <categories>
@@ -4025,7 +4100,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Dolls are boring? Try Charlie Chucker & swing ragdolls in the wildest weather! It's 60 levels of unique physics fun!]]></tweet>
-      <bitly>http://bit.ly/14e3qly</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1CeSMxD</bitly>
       <id>c062ca0a-13cd-40e2-a040-2f935f5483c3</id>
       <priority>130805</priority>
       <categories>
@@ -4070,7 +4146,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Feeling creative? Make dancing graphics with Simplefects: Modify 18 visual effects with just a swipe of a finger!]]></tweet>
-      <bitly>http://bit.ly/18HQNzs</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1moVuUs</bitly>
       <id>975f27e2-1420-4033-8a50-64383a72188d</id>
       <priority>130820</priority>
       <categories>
@@ -4116,7 +4193,8 @@
       <review>0</review>
       <free />
       <tweet><![CDATA[Ready to test your mastery of non–common sense knowledge? Checkout Who Knew? & learn a nice, new thing or two, today!]]></tweet>
-      <bitly>http://bit.ly/184mPGn</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1A2c3xG</bitly>
       <id>cb9af330-11f4-4a61-beb5-54da336cad6e</id>
       <priority>130926</priority>
       <categories>
@@ -4150,7 +4228,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Encourage kids to read with The Three Vampires―an interactive, spooky-sweet reworking of Goldilocks's classic tale!]]></tweet>
-      <bitly>http://bit.ly/1chaaoQ</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1q8TKkq</bitly>
       <id>b4b42f73-0860-4815-9a11-996904f58238</id>
       <priority>131025</priority>
       <categories>
@@ -4196,7 +4275,8 @@
     	<review>0</review>
 		<free>FREE APP!</free>
 		<tweet><![CDATA[Spelling Assistant can actually read your words aloud to test your spelling. Simply enter your words and tap!]]></tweet>
-		<bitly>TC</bitly>
+		<bitly />
+		<bitlyW8>http://bit.ly/1yZdGiW</bitlyW8>
 		<id>false</id>
 		<priority>131107</priority>
 		<categories> 
@@ -4226,7 +4306,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Slide pieces of the puzzle to bring spooky pictures to life w/ Halloween (Puzzle)! Can you get thru all 3 levels?]]></tweet>
-      <bitly>http://bit.ly/XmtRkL</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1Blir4j</bitly>
       <id>f6efbb0f-0647-4f85-a7dd-5037f1b2730f</id>
       <priority>131019</priority>
       <categories>
@@ -4265,7 +4346,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Handy to have for curious toddlers to play. 2-3 y.o.'s quiz Free  keeps them engaged w/ this fun learning app!]]></tweet>
-      <bitly>http://bit.ly/SpMdh7</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1tFOQRa</bitly>
       <id>f93e5f03-e7ef-4351-b17e-df2c840c6d05</id>
       <priority>121101</priority>
       <categories>
@@ -4305,7 +4387,8 @@
 	<review>http://windowsparent.com/app-reviews/best-translation-apps-polyglot/</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Studying language? TRY Polyglot—it translates 30+ languages & supports translation playback & voice-to-text input!]]></tweet>
-      <bitly>http://bit.ly/yJgKhZ</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1trHCS9</bitly>
       <id>5a27e774-15db-df11-a844-00237de2db9e</id>
       <priority>120176</priority>
       <categories>
@@ -4352,7 +4435,8 @@
 	  <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Let it whip w/ Whip Free just like Sheldon from Big Bang Theory "The Weekend Vortex" episode! Fun sound w/out pain!]]></tweet>
-      <bitly>http://bit.ly/VwzvwU</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1BljBwC</bitly>
       <id>60a0d8d6-21c6-4857-82a1-a40cf689d4ac</id>
       <priority>131024</priority>
       <categories>
@@ -4376,7 +4460,8 @@
 	  <review>http://windowsparent.com/app-reviews/best-budget-financial-apps-1app-budget/</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Manage finances with 1App Budget. You can even create graphs, set multiple budgets & use cloud storage!]]></tweet>
-      <bitly>http://bitly.com/wFHB2W</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1yNc3mQ</bitly>
       <id>e9021c97-0fa7-4121-a869-8858d80ce4e6</id>
       <priority>120119</priority>
       <categories>
@@ -4420,7 +4505,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Where are the matching spiderwebs? The pumpkins, skulls? Test your memory skills w/ Trick or Treat Concentration!]]></tweet>
-      <bitly>http://bit.ly/PO1gnO</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1Eb0JnG</bitly>
       <id>1818f5ed-5ccc-41a8-b6c1-87704d5b83ea</id>
       <priority>131023</priority>
       <categories>
@@ -4458,7 +4544,8 @@
 	  <review>http://windowsparent.com/app-reviews/best-augmented-reality-effects-on-pictures-app-funny-faces/</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Add effects to LIVE camera-shots & turn friends into clowns, chimps, or even Chuck Norrises with Funny Faces!]]></tweet>
-      <bitly>http://bit.ly/HvT0lY</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1AY6aQI</bitly>
       <id>2ccff48e-f60d-45a9-b353-358760f2ff77</id>
       <priority>120118</priority>
       <categories>
@@ -4498,7 +4585,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Kids will love Critter Cards-Halloween phone app learning vocabulary words w/ hauntingly silly talking flashcards.]]></tweet>
-      <bitly>http://bit.ly/RIOk1P</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1CvsN3o</bitly>
       <id>9f3fe557-566b-46f5-8297-9af79c8f3297</id>
       <priority>131018</priority>
       <categories>
@@ -4534,7 +4622,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[SuDoKu4KIds is a simple version of Sudoku: fill 4x4 grids with numbers, shapes, animals, or even toys!]]></tweet>
-      <bitly>http://bit.ly/MCxpqw</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1vIoNfd</bitly>
       <id>bad54c08-8ea3-e011-986b-78e7d1fa76f8</id>
       <priority>120717</priority>
       <categories>
@@ -4570,7 +4659,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[ArithmeTic-Tac-Toe teaches basic math thru 5 variations of the classic game. Fully customizable/animated!]]></tweet>
-      <bitly>http://bit.ly/PrrGru</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1wsOTfK</bitly>
       <id>f4877035-db16-48a4-84b7-b83eb593ad8d</id>
       <priority>121003</priority>
       <categories>
@@ -4608,7 +4698,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Check out Wiztiles Pro & make task shortcuts to pin on the start screen! Live Tiles, downloadable themes & more!]]></tweet>
-      <bitly>http://bit.ly/O8vHkr</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1D04Saf</bitly>
       <id>f8f66960-acba-40b2-842b-1fbec2664739</id>
       <priority>121113</priority>
       <categories>
@@ -4634,7 +4725,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Twelvo! Sort numbered, irregularly shaped tiles from 1 to 12 in the fewest moves. Cute graphics, fun levels!]]></tweet>
-      <bitly>http://bit.ly/Ny2oE8</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1Bloztk</bitly>
       <id>15b429c9-c055-4ecc-bfd5-1c2440514545</id>
       <priority>120704</priority>
       <categories>
@@ -4669,7 +4761,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Translator++ uses both Bing & Google translators and also detects the language of any text! ]]></tweet>
-      <bitly>http://bitly.com/xz58PW</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1paiTOs</bitly>
       <id>f1a765db-a1d2-44aa-a27e-4473a507fa02</id>
       <priority>120109</priority>
       <categories>
@@ -4695,7 +4788,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Help kids save up & buy what they want with ToyBank! It tracks money savings using a fun, simple interface.]]></tweet>
-      <bitly> http://bit.ly/Nlzpt8 </bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1BtUsAV</bitly>
       <id>bcf9b531-1ae1-4987-8c9c-0e8b987a2ebe</id>
       <priority>120153</priority>
       <categories>
@@ -4722,7 +4816,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[e-book app - The real princess ("The Princess & the Pea"). Its illustrations come alive when tilted or tapped on!]]></tweet>
-      <bitly>http://bit.ly/Mi6WB4</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1yDLz6V</bitly>
       <id>fbb4a53c-955f-4cea-8c90-7fe99095dad3</id>
       <priority>120710</priority>
       <categories>
@@ -4749,7 +4844,8 @@
 	  <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Record a set of words and quiz yourself once you are familiar with these words. A great study tool! ]]></tweet>
-      <bitly>http://bitly.com/GJQaex</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1B03tOs</bitly>
       <id>adf6d0bf-eca7-4e1e-8879-6be098a89a1e</id>
       <priority>120115</priority>
       <categories>
@@ -4778,7 +4874,8 @@
 	  <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Make a fun game out of learning to construct simple Consonant-Vowel-Consonant (CVC) words with Spin and Spell. ]]></tweet>
-      <bitly>http://bitly.com/HtaPEP</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1yDNJn5</bitly>
       <id>53eb721c-e63f-4ee3-925f-c4b4127d5b36</id>
       <priority>120713</priority>
       <categories>
@@ -4805,7 +4902,8 @@
 	  <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[The classic game Snake finally comes to Windows Phones as Snake 8 Free. Same gameplay, brand new features! ]]></tweet>
-      <bitly>http://bitly.com/IKVv1Y</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1JiytQ4</bitly>
       <id>62c65347-366a-4f63-886a-fba83c1ff8e5</id>
       <priority>120128</priority>
       <categories>
@@ -4835,7 +4933,8 @@
 	  <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Color up to 50 unique images that can also be used as puzzles with Paint and Puzzle. Two activities in one!]]></tweet>
-      <bitly>http://bitly.com/IzcSHL </bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1CmJxcP</bitly>
       <id>52c57976-1550-4aea-aeb5-cd966d91f9f9</id>
       <priority>120131</priority>
       <categories>
@@ -4865,7 +4964,8 @@
 	  <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[My Rubber Duck—a fun app that gives you a cute rubber ducky to squeeze right in your phone. Tub not required! ]]></tweet>
-      <bitly>http://bit.ly/vqbLCq</bitly>
+      <bitlyW8>http://bit.ly/1yrKCdy</bitlyW8>
+	  <bitly>http://bit.ly/1qgmJs3</bitly>
       <id>4ad4f1c2-b7db-df11-a844-00237de2db9e</id>
       <priority>120142</priority>
       <categories>
@@ -4902,7 +5002,8 @@
 	 <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[How old are you in animal years? My Animal Age will tell you. 12 animal year calculations available!]]></tweet>
-      <bitly>http://bit.ly/Kovaox</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1yDQYLk</bitly>
       <id>d1ff776c-6d99-4cb1-8ac3-06a207be8314</id>
       <priority>120628</priority>
       <categories>
@@ -4928,7 +5029,8 @@
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Record your moods or help your kids say theirs. Share moods via e-mail or social media too with Moody Marty!]]></tweet>
-      <bitly>http://bitly.com/IuGUtK</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1ueiXu5</bitly>
       <id>58163b7a-e15a-488e-8545-ddc63994e1b9</id>
       <priority>120122</priority>
       <categories>
@@ -4956,7 +5058,8 @@
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Create your own shortcuts to send specific texts/e-mails, search specific queries & more with Lightning Dial!]]></tweet>
-      <bitly>http://bitly.com/GJfex8</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1D0bHZx</bitly>
       <id>518c9e8a-5654-492f-97d1-5501cea96e7d</id>
       <priority>120116</priority>
       <categories>
@@ -4981,7 +5084,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Get fast access to videos on KhanAcademy.org with Khan Academy & turn your phone into a mini-university!]]></tweet>
-      <bitly>http://bit.ly/trC21M</bitly>
+      <bitlyW8>http://bit.ly/1CjOnGN</bitlyW8>
+	  <bitly>http://bit.ly/1xL7aXj</bitly>
       <id>68860880-3df0-df11-9264-00237de2db9e</id>
       <priority>120907</priority>
       <categories>
@@ -5007,7 +5111,8 @@
 	<review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Improve and monitor your kids' math skills with Jack of Math. Customize the number range, the time limit and more!]]></tweet>
-      <bitly>http://bitly.com/w7Qf8r</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1t87xOX</bitly>
       <id>ea79ba84-9236-4d3b-83d6-c72ad89be3f9</id>
       <priority>120104</priority>
       <categories>
@@ -5045,7 +5150,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Know the most fun & popular holidays with Holidays Calendar. Live Tile support, 7 holiday categories & more!]]></tweet>
-      <bitly>http://bit.ly/MjCgSv</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1qhmwTf</bitly>
       <id>1768c971-cdc1-4103-ba7b-79aa35455160</id>
       <priority>120158</priority>
       <categories>
@@ -5076,7 +5182,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Fill your gem-matching needs w/ Gem Lines 2! Leaderboards, achievements, play modes, themes & gem sets available!]]></tweet>
-      <bitly> http://bit.ly/Rsdjay </bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1CmNHBd</bitly>
       <id>8baaef11-187b-43a4-bee4-864809fe2534</id>
       <priority>120919</priority>
       <categories>
@@ -5111,7 +5218,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[English Flashcards 1 from Langeroo with over 160 cards from 9 various topics. Flashcard Games also available!]]></tweet>
-      <bitly>http://bitly.com/GHsMiu</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1CvWwcx</bitly>
       <id>b542fad0-6c47-40d2-a96f-11bf3347fef4</id>
       <priority>120114</priority>
       <categories>  
@@ -5137,7 +5245,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Make wonderful drawings and edit your pictures straight from your phone with Draw Free! ]]></tweet>
-      <bitly>http://bit.ly/LgLSJo</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1ECAML5</bitly>
       <id>ed8ca92e-1c25-e011-854c-00237de2db9e</id>
       <priority>120141</priority>
       <categories>
@@ -5166,7 +5275,8 @@
 	<review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Start with a blank canvas, or draw on your own photos with DoodlePad. Brush sizes/colors are customizable.]]></tweet>
-      <bitly>http://bitly.com/JUqSfV</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1B0hKL9</bitly>
       <id>aded583e-cadc-df11-a844-00237de2db9e</id>
       <priority>120139</priority>
       <categories>
@@ -5194,7 +5304,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Save Croc Monsieur from pain by pulling out his bad teeth. Don't pull the wrong tooth, though. He bites! ]]></tweet>
-      <bitly>http://bit.ly/LKTrdg</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1yNoIGr</bitly>
       <id>427abed3-c694-40cf-9582-d613f0446702</id>
       <priority>120148</priority>
       <categories>
@@ -5222,7 +5333,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Teach the ABCs, 123s & more while your child colors outlined or invisible mystery drawings.  Fantastic art game! ]]></tweet>
-      <bitly>http://bitly.com/yoeeWx</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/WPcmf</bitly>
       <id>8e3ae14e-1723-44bd-8e44-997885e45b66</id>
       <priority>120140</priority>
       <categories>
@@ -5250,7 +5362,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Enjoy the magical tale of Cinderella. eBook app with a puzzle & multilingual audio!]]></tweet>
-      <bitly>http://bitly.com/AdQwTH</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1D0klqK</bitly>
       <id>cf979027-c03c-4237-acfd-7f36f8f23b97</id>
       <priority>120106</priority>
       <categories>
@@ -5279,7 +5392,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[FatSecret's Calorie Counter has a food guide, food/exercise diary, weight chart & journal to help you be fit! ]]></tweet>
-      <bitly>http://bit.ly/vkclav</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1Jv7r6f</bitly>
       <id>7238b056-84da-df11-a844-00237de2db9e</id>
       <priority>120144</priority>
       <categories>
@@ -5303,7 +5417,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Very customizable events calendar w/ Facebook integration, Live Tile support & more!]]></tweet>
-      <bitly>http://bit.ly/LFJqgX</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/WPbday</bitly>
       <id>6e82cb8b-e142-4726-90cd-9252d724d1b5</id>
       <priority>120722</priority>
       <categories>
@@ -5333,7 +5448,8 @@
 	<review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Baby Cards Free has a game, vocab library & interactive audio flash-cards in Japanese/Chinese/English!]]></tweet>
-      <bitly>http://bit.ly/Of4g9f</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1J9fCdq</bitly>
       <id>97387f41-3f02-e011-9264-00237de2db9e</id>
       <priority>120724</priority>
       <categories>
@@ -5357,7 +5473,8 @@
 	<review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Check out Baby Book! It records events, milestones & other important data. Add pics & view events in a time line!]]></tweet>
-      <bitly>http://bitly.com/HNqsDC </bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1L5aOV8</bitly>
       <id>8271da9d-3eda-47ca-b80e-e88a2dbed971</id>
       <priority>120124</priority>
       <categories>
@@ -5384,7 +5501,8 @@
 	<review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Ava's ABC has Flash cards, vivid graphics, big fonts & more to help kids learn the ABCs. It also plays "The A.B.C."!]]></tweet>
-      <bitly>http://bit.ly/NDUGhq</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/15E8wfx</bitly>
       <id>aef7f948-d856-43b2-94b9-b8acc8f53c67</id>
       <priority>120718</priority>
       <categories>
@@ -5409,7 +5527,8 @@
 	<review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Check out AlphaMatch - a matching game with a twist. Match images, small/capital letters & initial sounds!]]></tweet>
-      <bitly>http://bitly.com/Ab2sIm</bitly>
+      <bitlyW8>http://bit.ly/1zbbcJl</bitlyW8>
+	  <bitly>http://bit.ly/1t8nGUD</bitly>
       <id>a2d221d3-60c7-4613-a149-ce5e55b58c87</id>
       <priority>120121</priority>
       <categories>
@@ -5437,7 +5556,8 @@
 	<review>0</review>
       <free/>
       <tweet><![CDATA[Dress up Angelina, the lovable tap-, ballet- & hip-hop-dancing mouse. Hundreds of possible outfit combinations!]]></tweet>
-      <bitly>http://bitly.com/J4xrLo</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1qRwyKY</bitly>
       <id>afdd4821-5473-467c-b324-8af666276da9</id>
       <priority>120135</priority>
       <categories>
@@ -5465,7 +5585,8 @@
 	<review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[1tap2send lets you pin pre-fabricated messages to your start screen so you can send them in seconds.]]></tweet>
-      <bitly>http://bitly.com/KsySz1</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1x2qWRv</bitly>
       <id>1b723ddb-2ae0-4337-b8ee-e7b4de5e2190</id>
       <priority>120130</priority>
       <categories>
@@ -5496,7 +5617,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Put uniquely shaped letter-tiles in the right order with Alphabuzzle. Get leaderboards & 100s of levels, too!]]></tweet>
-      <bitly> http://bit.ly/TT6dfu </bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1yToWKH</bitly>
       <id>66cc25c1-1eb5-41be-bc3d-dc43a3f49324</id>
       <priority>120914</priority>
       <categories>
@@ -5527,7 +5649,8 @@
    <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[ABC Trace Free helps kids improve hand-eye coordination while teaching the alphabet & basic vocab words]]></tweet>
-      <bitly>http://bit.ly/JheLJG</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1D0qtPX</bitly>
       <id>f1d3124f-8ec5-4a15-ae9a-d2c2f22080c7</id>
       <priority>120914</priority>
       <categories>
@@ -5553,7 +5676,8 @@
 	<review>0</review>
       <free/>
       <tweet><![CDATA[Have a magical read-out-loud experience exploring Wonderland with Elmo & his friends in Abby In Wonderland! ]]></tweet>
-      <bitly>http://bitly.com/JvLd4l</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/11evQh1</bitly>
       <id>871e37c6-04a5-4c24-b1ad-7b43af14f338</id>
       <priority>120125</priority>
       <categories>
@@ -5578,7 +5702,8 @@
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Play a timed or relaxed multiple-choice math quiz with A+ Math Facts. Great for introducing kids to math!]]></tweet>
-      <bitly>http://bitly.com/KvDyFL</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1BlHzIb</bitly>
       <id>47e8d83f-ffe1-402e-92f5-698c3c3fbfeb</id>
       <priority>120138</priority>
       <categories>
@@ -5607,7 +5732,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[The hit game Flowerz has a FREE APP! Match same-colored flowers, use butterflies & more—just like the web version!]]></tweet>
-      <bitly>http://bit.ly/SIgElh</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1yTqT9Y</bitly>
       <id>981750c8-24cc-df11-9eae-00237de2db9e</id>
       <priority>121103</priority>
       <categories>
@@ -5661,7 +5787,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[mazoocard LITE is a customizable memory game. Set the images on the cards, the number of cards to play & more!]]></tweet>
-      <bitly>mazoocard Lite</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1t8tqxA</bitly>
       <id>953ca18b-c113-e011-9264-00237de2db9e</id>
       <priority>121106</priority>
       <categories>
@@ -5708,7 +5835,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Do you like our recommendations? Make sure to share our app with friends & family so they can also discover amazing WP apps!]]></tweet>
-      <bitly>http://bit.ly/wppapp</bitly>
+	  <bitlyW8>http://bit.ly/WP_W8App</bitlyW8>
+	  <bitly>http://bit.ly/WP_WPPApp</bitly>
       <id>f028c727-2794-401d-b362-8f87b7d1d225</id>
       <priority>301108</priority>
       <categories>
@@ -5735,7 +5863,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Wake up to the cute sound of cats & kittens w/ CatAlarm! Various categorized cat sounds & settings included!]]></tweet>
-      <bitly>mazoocard Lite</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1uq0LPR</bitly>
       <id>8ae6b8e4-11f8-465f-97f0-543bbb67a459</id>
       <priority>140207</priority>
       <categories>
@@ -5772,7 +5901,8 @@
       <review>0</review>
       <free />
       <tweet><![CDATA[Learn state capitals, shapes, geographic locations and more. Touch, move and drop the animated states anywhere on the screen.]]></tweet>
-      <bitly>http://bit.ly/JBToSp</bitly>
+      <bitlyW8>http://bit.ly/17otcsL</bitlyW8>
+	  <bitly>http://bit.ly/15npr4T</bitly>
       <id>ca1dcc39-0fb3-45d6-bec6-ab525e9f5215</id>
       <priority>121109</priority>
       <categories>	
@@ -5811,7 +5941,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Look at me & remember what you see! But be quick – w/ ReDraw! you have a blink of an eye to memorize what to draw!]]></tweet>
-      <bitly>http://bit.ly/TDZ518</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1xEwFc4</bitly>
       <id>1f2509e9-67a7-414f-b7f1-cd8e767cdfa9</id>
       <priority>121113</priority>
       <categories>
@@ -5858,7 +5989,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Word Bubbles—Fun for toddlers and grownups too! Tots learn their ABC’s while offering older minds a challenge too!]]></tweet>
-      <bitly>http://bit.ly/Q5ba3K</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/189fCtB</bitly>
       <id>c0ec6a16-60af-4433-ab79-a9ad43bc61bd</id>
       <priority>121115</priority>
       <categories>
@@ -5897,7 +6029,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Turkey Gobbler—Have your very own pet turkey on your phone & change its look or make it gobble!]]></tweet>
-      <bitly>http://bit.ly/RU55FD</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1zEoQtc</bitly>
       <id>17229369-52b2-43ac-a1b3-9a263720467d</id>
       <priority>121121</priority>
       <categories>
@@ -5926,7 +6059,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Navigate dangerous, cloudy, lined skies as you collect floating potions & new broomsticks in Wonder Witches!]]></tweet>
-      <bitly>http://bit.ly/Rr5IWD</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/15EbVuQ</bitly>
       <id>754c1f1c-2fe1-4efe-914b-2af4cd7db010</id>
       <priority>131023</priority>
       <categories>
@@ -5967,7 +6101,8 @@
       <review>0</review>
       <free>TRY FREE</free>
       <tweet><![CDATA[The zombies are coming! Use your lawn plants to defeat them all in the award-winning TD game Plants vs. Zombies!]]></tweet>
-      <bitly>http://bit.ly/Sm0WvW</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/15y60Xq</bitly>
       <id>706f822a-a47e-e011-986b-78e7d1fa76f8</id>
       <priority>131019</priority>
       <categories>
@@ -6014,7 +6149,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Stop Frankenstein's, Dracula's & more famous monsters' armies with flickable pumpkins in Pumpkin Smash! 30 levels!]]></tweet>
-      <bitly>http://bit.ly/S6WPR9</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1Cn3ZtR</bitly>
       <id>8e85872d-2b80-4ea3-9a02-66fe80f1f13f</id>
       <priority>131019</priority>
       <categories>
@@ -6055,7 +6191,8 @@
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Hear your voice in scary, Halloween-perfect audio with Talking Pumpkin—a fun recorder app with animated graphics!]]></tweet>
-      <bitly>http://bit.ly/PeYUNu</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/1z04ZoL</bitly>
       <id>1bf87156-23c7-4826-b442-8c04adf027f4</id>
       <priority>131022</priority>
       <categories>
@@ -6092,7 +6229,8 @@
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Conquer your monster fears w/ the monster-bombing physics game Monster Island: 12 heroes & 252 levels to play!]]></tweet>
-      <bitly>http://bit.ly/WU0zLL</bitly>
+      <bitlyW8 />
+	  <bitly>http://bit.ly/ZnIOIE</bitly>
       <id>831fc541-b1bd-4602-84bc-6e16f333584d</id>
       <priority>121126</priority>
       <categories>
