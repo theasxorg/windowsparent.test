@@ -118,14 +118,14 @@ for (i=0;i<x.length;i++)
       		document.write("<a href=\"http://apps.microsoft.com/webpdp/app/");
       		document.write(x[i].getElementsByTagName("win8")[0].childNodes[0].nodeValue);
       		document.write("\">");
-      		document.write("<img id=\"store\" alt=\"W8\" onmouseout=\"this.src='images/W8.png'\"  onmouseover=\"this.src='images/W8_hover.png'\" src=\"images/W8.png\">");
+      		document.write("<img id=\"store\" alt=\"W8\" onmouseout=\"this.src='../../../../images/W8.png'\"  onmouseover=\"this.src='../../../../images/W8_hover.png'\" src=\"../../../../images/W8.png\">");
       		document.write("</a>");
          }  
 	     if (x[i].getElementsByTagName("id")[0].childNodes[0].nodeValue != "false")
          {
            document.write("<a href=\"http://www.windowsphone.com/s?appid=");
            document.write(x[i].getElementsByTagName("id")[0].childNodes[0].nodeValue);
-           document.write("\"><img id=\"store\"  alt=\"Wp7\" onmouseout=\"this.src='images/WP7.png'\"  onmouseover=\"this.src='images/WP7_hover.png'\" src=\"images/WP7.png\"></a>");
+           document.write("\"><img id=\"store\"  alt=\"Wp7\" onmouseout=\"this.src='../../../../images/WP7.png'\"  onmouseover=\"this.src='../../../../images/WP7_hover.png'\" src=\"../../../../images/WP7.png\"></a>");
 	    }
 	    if (x[i].getElementsByTagName("review")[0].childNodes[0].nodeValue != "0")
          {
@@ -133,9 +133,9 @@ for (i=0;i<x.length;i++)
            document.write(x[i].getElementsByTagName("review")[0].childNodes[0].nodeValue);
 		   document.write("\"><img id=\"store\"  alt=\"rating\" onmouseout=\"this.src='images/ratings/rating_");
 		   document.write(x[i].getElementsByTagName("rating")[0].childNodes[0].nodeValue);
-           document.write(".png'\"  onmouseover=\"this.src='http://windowsparent.com/images/ratings/rating_");
+           document.write(".png'\"  onmouseover=\"this.src='images/ratings/rating_");
 		   document.write(x[i].getElementsByTagName("rating")[0].childNodes[0].nodeValue);
-		   document.write("_hover.png'\" src=\"http://windowsparent.com/images/ratings/rating_");
+		   document.write("_hover.png'\" src=\"images/ratings/rating_");
 		   document.write(x[i].getElementsByTagName("rating")[0].childNodes[0].nodeValue);
 		   document.write(".png\"></a>");
 	    }
