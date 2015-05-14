@@ -5,11 +5,11 @@
   <app>
    <name>Saski Studio Calculator</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/e9deb086-21e7-443e-8815-f38801a4e7c4</image>
-	   <win8>false</win8>    
+	   <win8>8662522f-8bce-402a-9b81-165d48847c0b</win8>    
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Get children excited by Maths with the sweetest calculator ever: it makes counting not only easy but also rewarding an fun!]]></tweet>
-      <bitlyW8 />
+      <bitlyW8>http://bit.ly/SS_CalWin8</bitlyW8>
 	  <bitly>http://bit.ly/SS_Cal</bitly>
       <id>9b1a9ac2-0825-433c-81f1-63e3669c2962</id>
       <priority>290515</priority>
