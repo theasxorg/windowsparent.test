@@ -2,6 +2,46 @@
 <masterList>
   <date>2012-10-25T17:06:00</date>
   <appList>
+  	<app>
+      <name>Bulbul Apps</name>
+      <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/733d39f9-d5a4-4529-b2d2-adb72a428d8c</image>
+      <win8>false</win8>
+      <review>0</review>
+      <free>FREE APP!</free>
+      <tweet><![CDATA[Kids enjoy reading w/ BullBul Apps: it's an interactive storybook w/ text & graphics by artists around the world!]]></tweet>
+      <bitlyW8 />
+	  <bitly>hhttp://bit.ly/1J2Kc82</bitly>
+      <id>e7628a6a-08af-4e19-aa0b-60ef635aea5d</id>
+      <priority>150530</priority>
+      <categories>
+        <category>Kids</category>
+        <category>Featured</category>
+        <category>e-books</category>
+        <category>Pre-schooler (3-5 years)</category>
+        <category>Toddler (18-36 months)</category>
+        <category>Young Child (5-8 years)</category>
+      </categories>
+      <filters>
+        <filter>1 year old</filter>
+        <filter>2 years old</filter>
+        <filter>3 years old</filter>
+        <filter>4 years old</filter>
+        <filter>5 years old</filter>
+        <filter>6 years old</filter>
+        <filter>7 years old</filter>
+        <filter>8 years old</filter>
+        <filter>Ads free</filter>
+      </filters>
+      <url>http://windowsphoneparent.com/best-halloween-tale-story-for-kids-on-windows-phone-the-three-vampires/</url>
+      <rating>5</rating>
+      <related />
+      <thebottomline />      <thegoods />
+      <thebads />
+      <theuglys />
+      <theamazings />
+      <video />      <versionreviewed />
+      <ratingdetails />
+    </app>
   <app>
       <name>Memorize it!</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/11e023f3-bfcb-4800-b75c-94bfae92954a</image>
