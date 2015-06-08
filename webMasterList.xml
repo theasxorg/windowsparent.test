@@ -2,7 +2,43 @@
 <masterList>
   <date>2012-10-25T17:06:00</date>
   <appList>
-  	<app>
+<app>
+<name>Hear it first!</name>
+<image>http://cdn.marketplaceimages.windowsphone.com/v8/images/d8357364-67db-4af7-9cd5-a3c0ef4e09cd?imageType=ws_icon_large</image>
+<win8>false</win8>
+<review>0</review>
+<free>FREE</free>
+<tweet><![CDATA[Learning Spanish/English/Portuguese/Russian/French/German/Italian/Polish?Nail the accents w/ Hear it first!]]></tweet>
+<bitlyW8 />
+<bitly>http://bit.ly/14e3qly</bitly>
+<id>f7fe46a1-1ea4-4ef8-a3fc-e14bd1024932</id>
+<priority>150605</priority>
+<categories>
+<category>Education<./category>
+<category>Featured<./category>
+<category>Kids</category>
+<category>Older Child (9-12 years)</category>
+<category>Language<./category>
+</categories>
+<filters>
+<filter>10 years old</filter>
+<filter>11 years old</filter>
+<filter>12 years old</filter>
+<filter>9 years old</filter>
+<filter>teenager</filter>
+</filters>
+<url>http://windowsphoneparent.com/language-education-kids-adults-windows-phone-hear-it-first/</url>
+<rating>0</rating>
+<related />
+<thebottomline /> <thegoods />
+<thebads />
+<theuglys />
+<theamazings />
+<video />
+<versionreviewed />
+<rating details />
+</app>
+<app>
       <name>Bulbul Apps</name>
       <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/733d39f9-d5a4-4529-b2d2-adb72a428d8c</image>
       <win8>false</win8>
