@@ -14,30 +14,22 @@
 <id>f7fe46a1-1ea4-4ef8-a3fc-e14bd1024932</id>
 <priority>150605</priority>
 <categories>
-<category>Education<./category>
-<category>Featured<./category>
-<category>Kids</category>
-<category>Older Child (9-12 years)</category>
-<category>Language<./category>
-</categories>
-<filters>
-<filter>10 years old</filter>
-<filter>11 years old</filter>
-<filter>12 years old</filter>
-<filter>9 years old</filter>
-<filter>teenager</filter>
-</filters>
-<url>http://windowsphoneparent.com/language-education-kids-adults-windows-phone-hear-it-first/</url>
-<rating>0</rating>
-<related />
-<thebottomline /> <thegoods />
-<thebads />
-<theuglys />
-<theamazings />
-<video />
-<versionreviewed />
-<rating details />
-</app>
+        <category>Kids</category>
+        <category>Featured</category>
+	<category>Study Aids</category>
+        <category>Foreign Language</category>
+        <category>Teenager</category>
+      </categories>
+      <filters />
+      <url>http://windowsphoneparent.com/best-translation-apps-for-parents-on-windows-phone-translator/</url>
+      <rating>1</rating>      <related />
+      <thebottomline />      <thegoods />
+      <thebads />
+      <theuglys />
+      <theamazings />
+      <video />      <versionreviewed />
+      <ratingdetails />
+    </app>
 <app>
       <name>Bulbul Apps</name>
       <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/733d39f9-d5a4-4529-b2d2-adb72a428d8c</image>
