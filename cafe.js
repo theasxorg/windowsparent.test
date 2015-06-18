@@ -11,12 +11,12 @@ else
 
 xmlhttp.open("GET","../../../../navigation_kids.xml",false);
 xmlhttp.send();
-xmlDoc=xmlhttp.responseXML; 
+xmlDoc=xmlhttp.responseXML;
 
 var n=xmlDoc.getElementsByTagName("nav");
 
 for (i=0;i<n.length;i++)
-  { 
+  {
     if(n[i].getElementsByTagName("title")[0].childNodes[0].nodeValue != page)
 	{
       document.write("<li><a href=");
@@ -30,7 +30,7 @@ for (i=0;i<n.length;i++)
 			  document.write(page);
 			  document.write("<li>");
 	}
-  
+
   }
 }
 
@@ -46,14 +46,14 @@ else
 
 xmlhttp.open("GET",xmlpage,false);
 xmlhttp.send();
-xmlDoc=xmlhttp.responseXML; 
+xmlDoc=xmlhttp.responseXML;
 var n=xmlDoc.getElementsByTagName("nav");
 
 
 document.write("<ul class=\"categoryNav navText\">");
 
 for (i=0;i<n.length;i++)
-  { 
+  {
 
     if(n[i].getElementsByTagName("title")[0].childNodes[0].nodeValue != page)
 	{
@@ -66,9 +66,9 @@ for (i=0;i<n.length;i++)
 	else{
 		      document.write("<li class=\"nav-selected\">");
 			  document.write(page);
-			  document.write("<li>");
+			  document.write("</li>");
 	}
-  
+
   }
         document.write("</ul>");
 }
@@ -85,34 +85,34 @@ else
 
 xmlhttp.open("GET","../../../../webMasterList.xml",false);
 xmlhttp.send();
-xmlDoc=xmlhttp.responseXML; 
+xmlDoc=xmlhttp.responseXML;
 
 var x=xmlDoc.getElementsByTagName("app");
 var flag=0;
 
 for (i=0;i<x.length;i++)
-  { 
-  
+  {
+
   c=x[i].getElementsByTagName("category");
    for (j=0;j<c.length;j++)
-  { 
-  
+  {
+
     if (x[i].getElementsByTagName("category")[j].childNodes[0].nodeValue == leftNav )
    { //document.write(x[i].getElementsByTagName("category")[j].childNodes[0].nodeValue);
-     
+
 
 	 for (f=0;f<c.length;f++)
-  	 { 
+  	 {
 	     if (x[i].getElementsByTagName("category")[f].childNodes[0].nodeValue == topNav)
-         { 
-		 
+         {
+
 		 	 flag=flag + 1;
              document.write("<div class=\"app-container\">");
              document.write("<div class=\"app-image\" style=\" background:url(");
              document.write(x[i].getElementsByTagName("image")[0].childNodes[0].nodeValue);
              document.write(")  center no-repeat; background-size: 163px Auto\">");
              document.write("<div class=\"stores-links\">");
-      
+
          if (x[i].getElementsByTagName("win8")[0].childNodes[0].nodeValue != "false")
          {
       		document.write("<a href=\"http://apps.microsoft.com/webpdp/app/");
@@ -120,7 +120,7 @@ for (i=0;i<x.length;i++)
       		document.write("\">");
       		document.write("<img id=\"store\" alt=\"W8\" onmouseout=\"this.src='../../../../images/W8.png'\"  onmouseover=\"this.src='../../../../images/W8_hover.png'\" src=\"../../../../images/W8.png\">");
       		document.write("</a>");
-         }  
+         }
 	     if (x[i].getElementsByTagName("id")[0].childNodes[0].nodeValue != "false")
          {
            document.write("<a href=\"http://www.windowsphone.com/s?appid=");
@@ -144,18 +144,18 @@ for (i=0;i<x.length;i++)
         document.write(x[i].getElementsByTagName("name")[0].childNodes[0].nodeValue);
         document.write("</h4>");
         document.write(x[i].getElementsByTagName("tweet")[0].childNodes[0].nodeValue);
-        document.write("</div>");  
+        document.write("</div>");
 		 }
         }
- 
+
      }
 
-    
+
  }
-  
+
   }
   if(flag == 0){
-  document.write("<div class=\"review-breakdown\">We couldn&acute;t find any apps under these filters.<br /><br />We are adding new apps on a daily basis,<br /> please come back soon : )</div>"); 
+  document.write("<div class=\"review-breakdown\">We couldn&acute;t find any apps under these filters.<br /><br />We are adding new apps on a daily basis,<br /> please come back soon : )</div>");
   }
 }
 
@@ -171,39 +171,39 @@ else
 
 xmlhttp.open("GET","../../../../webMasterList.xml",false);
 xmlhttp.send();
-xmlDoc=xmlhttp.responseXML; 
+xmlDoc=xmlhttp.responseXML;
 var n=xmlDoc.getElementsByTagName("app");
 
 for (i=0;i<n.length;i++)
-  { 
-  
+  {
+
      if (n[i].getElementsByTagName("id")[0].childNodes[0].nodeValue == appID)
      {
 
 	  document.write("<h1 class=\"appSet\">");
-      document.write(n[i].getElementsByTagName("name")[0].childNodes[0].nodeValue);	
+      document.write(n[i].getElementsByTagName("name")[0].childNodes[0].nodeValue);
 	  document.write("</h1>");
 	  document.write("<div class=\"review-left-container\"><img src=\"");
-	  document.write(n[i].getElementsByTagName("image")[0].childNodes[0].nodeValue);	
+	  document.write(n[i].getElementsByTagName("image")[0].childNodes[0].nodeValue);
 	  document.write("\" class=\"review-tile-image\"> ");
 	  document.write("<div class=\"windows-rating-padding\">Windows Parent Rating<img src=\"images/ratings/rating_stars_");
 	  document.write(n[i].getElementsByTagName("rating")[0].childNodes[0].nodeValue);
 	  document.write(".png\" alt=\"rating\" class=\"rating-starts-images\"></div>");
-	  
+
 	  if (n[i].getElementsByTagName("id")[0].childNodes[0].nodeValue != "false")
          {
            document.write("<a href=\"http://www.windowsphone.com/s?appid=");
            document.write(n[i].getElementsByTagName("id")[0].childNodes[0].nodeValue);
-           document.write("\"><img src=\"images/windows-phone-store-button.png\" alt=\"Download on Windows Phone\" border=0></a>");           
+           document.write("\"><img src=\"images/windows-phone-store-button.png\" alt=\"Download on Windows Phone\" border=0></a>");
 	    }
-		
+
       if (n[i].getElementsByTagName("win8")[0].childNodes[0].nodeValue != "false")
          {
       		document.write("<a href=\"http://apps.microsoft.com/webpdp/app/");
       		document.write(n[i].getElementsByTagName("win8")[0].childNodes[0].nodeValue);
       		document.write("\"><img src=\"images/windows-store-button.png\" alt=\"Download on Windows 8\" border=0></a>");
 
-         } 
+         }
 	  document.write("</div><div class=\"appMainContainer\">");
 	  document.write("<h1>");
 	  document.write(n[i].getElementsByTagName("thebottomline")[0].childNodes[0].nodeValue);
@@ -218,7 +218,7 @@ for (i=0;i<n.length;i++)
 	  document.write("<div class=\"review-breakdown\">The Amazing</div>");
 	  document.write(n[i].getElementsByTagName("theamazings")[0].childNodes[0].nodeValue);
 	  document.write("</div>");
-	  
+
 		 }
   }
 }
