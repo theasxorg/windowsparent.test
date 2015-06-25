@@ -16,7 +16,7 @@ else
 // The following code fragment parses an XML document called navigation_kids.xml into an XML DOM object by
 //The open() and send(X) methods of the XHMLHttpRequest onject are also used to send requests to the server
 // the get method is passed, then the url we want to get, then Synchronous was chossen
-xmlhttp.open("GET","../../../../navigation_kids.xml",false);
+xmlhttp.open("GET","../../../../navigation_kids.xml",true);
 xmlhttp.send();
 // Builds an XMLDocument object from the body of the servers response.
 xmlDoc=xmlhttp.responseXML;
@@ -59,7 +59,7 @@ else
   }
 
 
-xmlhttp.open("GET",xmlpage,false);
+xmlhttp.open("GET",xmlpage,true);
 xmlhttp.send();
 xmlDoc=xmlhttp.responseXML;
 
