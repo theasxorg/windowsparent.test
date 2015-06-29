@@ -1,5 +1,5 @@
 // JavaScript Document
-// A function that handles XHLHttpRequest for page
+// A function that handles XHLHttpRequest when the page is passed in its parameters
 function menuCat(page){
 // detects if the browser has XMLHttpRequest functionality implemented as a global function
 // if so the XMLHttpRequest object is created that way.
@@ -21,7 +21,7 @@ xmlhttp.send();
 // Builds an XMLDocument object from the body of the servers response.
 xmlDoc=xmlhttp.responseXML;
 
-// Var n is assigned getElementsByTagName()medthod, which returns a NodeList(An Array Of Nodes) of all elements
+// Var n is assigned xmlDoc.getElementsByTagName()medthod, which returns a NodeList(An Array Of Nodes) of all elements
 var n=xmlDoc.getElementsByTagName("nav");
 
 // a for loop is created to loop through each NodeList of "nav" by using the length property.
@@ -30,18 +30,25 @@ for (i=0;i<n.length;i++)
     //if the title NodeList at the childNodes and nodeValue 0 position, is not equal to page.
     if(n[i].getElementsByTagName("title")[0].childNodes[0].nodeValue != page)
 	{
-    // then the following code is executed. and the link and title page are created
+    // list element with a href tage is written in the browser
     document.write("<li><a href=");
+    // the link element is written on page.
     document.write(n[i].getElementsByTagName("link")[0].childNodes[0].nodeValue);
+    // the a href tag is closed off
 	  document.write(">");
+    // the title element is written on page.
 	  document.write(n[i].getElementsByTagName("title")[0].childNodes[0].nodeValue);
+    // the a href and li element is closed off.
 	  document.write("</a></li>");
 	}
-  // the "nav-selected" code is listed.
+  // if it is equals to the page
 	else{
+        // the "nav-selected" code is listed.
 		    document.write("<li class=\"nav-selected\">");
+        // the page is listed in the browser.
 			  document.write(page);
-			  document.write("<li>");
+        // the list is closed, (I just added a closing tag)
+			  document.write("</li>");
 	}
 
   }

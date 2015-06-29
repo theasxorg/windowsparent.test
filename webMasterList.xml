@@ -2,6 +2,45 @@
 <masterList>
   <date>2012-10-25T17:06:00</date>
   <appList>
+    <app>
+    <name>Get A Grip</name>
+    <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/5defc6b9-3303-4697-966a-2f42f4d1b809?imageType=ws_icon_large</image>
+    <win8>true</win8>
+    <review>0</review>
+    <free>FREE</free>
+    <tweet><![CDATA[Save a cute panda from a fire by swinging up a tree & into safety in the fun 3D endless running game Get A Grip!]]></tweet>
+    <bitly.ly />
+    <bitly>http://bitly.com/1g1uYnp</bitly>
+    <id>g8gf57b2-2fb9-6fg9-b4gd-f25ce2135043</id>
+    <priority>150610</priority>
+    <categories>
+    <category>Kids</category>
+    <category>Parents</category>
+    <category>Featured</category>
+    <category>Games</category>
+    <category>Teenager</category>
+    <category>Older Child (9-12 years)</category>
+    <category>Young Child (5-8 years)</category>
+    </categories>
+    <filters>
+            <filter>10 years old</filter>
+            <filter>11 years old</filter>
+            <filter>12 years old</filter>
+            <filter>6 years old</filter>
+            <filter>7 years old</filter>
+            <filter>8 years old</filter>
+    	<filter>9 years old</filter>
+            <filter>teenager</filter>
+          </filters>
+    <url>http://www.windowsphone.com/en-gb/store/app/get-a-grip/2766594c-a61c-478f-83b0-2f2c42bf6fde/</url>
+    <rating>1</rating> <related />
+    <thebottomline /> <thegoods />
+    <thebads />
+    <theuglys />
+    <theamazings />
+    <video /> <versionreviewed />
+    <ratingdetails />
+    </app>
 <app>
 <name>Hear it first!</name>
 <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/d8357364-67db-4af7-9cd5-a3c0ef4e09cd?imageType=ws_icon_large</image>
@@ -74,7 +113,7 @@
   <app>
       <name>Memorize it!</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/11e023f3-bfcb-4800-b75c-94bfae92954a</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	  <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Must learn something by heart? Try Memorize it! & make the process easy through visual clues, anagrams & more!]]></tweet>
@@ -84,7 +123,7 @@
       <priority>150522</priority>
       <categories>
 	    <category>Kids</category>
-	    <category>Featured</category> 
+	    <category>Featured</category>
         <category>Teenager</category>
 	<category>Study Aids</category>
         <category>Parents</category>
@@ -107,7 +146,7 @@
   <app>
    <name>Saski Studio Calculator</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/e9deb086-21e7-443e-8815-f38801a4e7c4</image>
-	   <win8>8662522f-8bce-402a-9b81-165d48847c0b</win8>    
+	   <win8>8662522f-8bce-402a-9b81-165d48847c0b</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Get children excited by Maths with the sweetest calculator ever: it makes counting not only easy but also rewarding an fun!]]></tweet>
@@ -117,7 +156,7 @@
       <priority>290515</priority>
       <categories>
 		<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Geeky</category>
         <category>Math</category>
         <category>Older Child (9-12 years)</category>
@@ -137,7 +176,7 @@
   <app>
       <name>BizXpert Invoice and Inventory</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/bbc9d35f-c3aa-424d-a99f-efff872ee8e2</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Easily make, send, and print invoices w/BizXpert! It also manages expenses, inventories, schedules, and more!]]></tweet>
@@ -167,7 +206,7 @@
   <app>
       <name>Real Kakuro - Cross Sums</name>
       <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/7b8e2a40-a678-47d5-9966-327967054942</image>
-      <win8>52902b76-e7de-4464-9b1c-717033315e95</win8> 
+      <win8>52902b76-e7de-4464-9b1c-717033315e95</win8>
       <review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Tease your brain with these unique logic puzzles: an awesome mix of numbers and crosswords that will challenge your mind!]]></tweet>
@@ -213,7 +252,7 @@
     <app>
       <name>uTraveler</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/f7e9aeb7-d79e-4541-8388-82d64f4c5466</image>
-	  <win8>false</win8>     
+	  <win8>false</win8>
 	  <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Travel fun & easy w/ uTraveler: add captions to photos & upload to the web, plan routes, monitor expenses & more!]]></tweet>
@@ -224,11 +263,11 @@
       <categories>
 		<category>Today</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Productivity</category>
         <category>Photography and videos</category>
-		<category>Social Networking</category> 
-		<category>Travelling</category> 
+		<category>Social Networking</category>
+		<category>Travelling</category>
       </categories>
       <filters />
       <url>http://windowsphoneparent.com/best-productivity-dial-apps-for-parents-on-windows-phone-lightning-dial/</url>
@@ -253,7 +292,7 @@
       <priority>250215</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Pre-schooler (3-5 years)</category>
         <category>Toddler (18-36 months)</category>
         <category>Skill Development</category>
@@ -284,7 +323,7 @@
       <priority>150210</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Pre-schooler (3-5 years)</category>
         <category>Toddler (18-36 months)</category>
         <category>Skill Development</category>
@@ -305,7 +344,7 @@
       <app>
       <name>Skype</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/dec20714-8a1b-4512-866f-7e9694882636</image>
-	  <win8>5e19cc61-8994-4797-bdc7-c21263f6282b</win8>     
+	  <win8>5e19cc61-8994-4797-bdc7-c21263f6282b</win8>
 	  <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Get in touch with your loved ones from everywhere: free calls, videocalls and much more!]]></tweet>
@@ -316,11 +355,11 @@
       <categories>
 		<category>Today</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Productivity</category>
         <category>Photography and videos</category>
-		<category>Social Networking</category> 
-		<category>Travelling</category> 
+		<category>Social Networking</category>
+		<category>Travelling</category>
       </categories>
       <filters />
       <url>http://windowsphoneparent.com/best-productivity-dial-apps-for-parents-on-windows-phone-lightning-dial/</url>
@@ -335,7 +374,7 @@
   <app>
       <name>MixaMonster</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/74bb17ce-c24b-4872-908c-ac23cc4a3fa9</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Let loveable monsters teach you to mix colors in Mixamonster. The app features cute graphics & engaging gameplay!]]></tweet>
@@ -382,7 +421,7 @@
   <app>
       <name>My Cheerful Letters</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/1a64e477-5f9b-4cbc-8f26-23762c053d16</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	  <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Teach kids Arabic/English/Spanish w/ My Cheerful Letters: cute graphics & audio allow you to learn the fun way!]]></tweet>
@@ -392,7 +431,7 @@
       <priority>150129</priority>
       <categories>
 	    <category>Kids</category>
-	    <category>Featured</category> 
+	    <category>Featured</category>
         <category>Activity Book</category>
         <category>Pre-schooler (3-5 years)</category>
         <category>Young Child (5-8 years)</category>
@@ -457,7 +496,7 @@
       <app>
       <name>AlphaMatch Christmas</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/fac42c5d-c130-4b4c-a623-cadcdece5c77</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	  <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Match letters/objects to each other or their first-letter sounds in the themed memory game AlphaMatch Christmas!]]></tweet>
@@ -487,7 +526,7 @@
     <app>
       <name>Guess!</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/fd2c4c21-abd8-4032-af16-11a1a25b1411</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free />
       <tweet><![CDATA[Play charades with Guess! Tilt to switch cards—standard & custom decks available. Take videos of your game, too!]]></tweet>
@@ -525,7 +564,7 @@
       <app>
       <name>Phototag</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/81feb78f-a347-431d-a921-26bbb6b59631</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Capture more memories with your camera and Phototag! It records weather, baby info & more! Sharing & filters enabled!]]></tweet>
@@ -557,7 +596,7 @@
     <app>
       <name>Domino Scorekeeper Deluxe</name>
 	  <image>http://windowsparent.com/devs/images/18423d90-8c97-4b67-94f5-4a525b81b4da.png</image>
-	  <win8>18423d90-8c97-4b67-94f5-4a525b81b4da</win8> 
+	  <win8>18423d90-8c97-4b67-94f5-4a525b81b4da</win8>
       <review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Domino Scorekeeper Deluxe is the perfect app for point and score keeping. Add as many players as you'd like!]]></tweet>
@@ -596,7 +635,7 @@
     <app>
       <name>Revers9</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/01d9cabf-3cd7-43d6-b121-df75906f0e85</image>
-	  <win8>173486b0-3368-4f09-92d5-01b5122c3f20</win8> 
+	  <win8>173486b0-3368-4f09-92d5-01b5122c3f20</win8>
       <review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Looking for a quick, simple game? Try Revers9 & sort 9 randomly generated numbers within a specific period of time!]]></tweet>
@@ -642,7 +681,7 @@
     <app>
       <name>Preschool Doctor Vet Games</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/426b353a-e32d-41bd-babb-0d1b69627189</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Help preschoolers to grade schoolers learn simple math, sorting, colors & more w/ Preschool Doctor Vet Games!]]></tweet>
@@ -652,7 +691,7 @@
       <priority>120138</priority>
       <categories>
 		<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Geeky</category>
         <category>Math</category>
         <category>Older Child (9-12 years)</category>
@@ -672,7 +711,7 @@
       <app>
       <name>Video Memories</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/a17caf1f-08fc-4399-9aa3-2b12b55431cd</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Make photo slideshows w/ Video Memories & add your music or use enhancing filters, effects, frames, fonts & more!]]></tweet>
@@ -712,7 +751,7 @@
     <app>
       <name>XyloFun</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/2279ecef-20b6-41ff-bf72-c6b318ad3edd</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[XyloFun plays different musical instruments / unique sounds & even plays back recorded voices in fun parrot talk!]]></tweet>
@@ -758,7 +797,7 @@
       <app>
       <name>Math Stars</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/fe0cd2b8-5ef9-4cdb-a329-97cd0fd8f3b8</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Math Stars has timed/non-timed games for 1st–4th graders & a calculator that shows the remainder in div problems!]]></tweet>
@@ -768,7 +807,7 @@
       <priority>141010</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Geeky</category>
         <category>Math</category>
         <category>Older Child (9-12 years)</category>
@@ -788,7 +827,7 @@
       <app>
       <name>nuiSense pro</name>
 	  <image>http://windowsparent.com/devs/images/cf73b1f9-1206-41d0-8845-b34bea22a900.png</image>
-	  <win8>cf73b1f9-1206-41d0-8845-b34bea22a900</win8>     
+	  <win8>cf73b1f9-1206-41d0-8845-b34bea22a900</win8>
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[nuiSense pro lets you manage your files & share them via SNS—DLNA support, customizable folders & more available!]]></tweet>
@@ -799,7 +838,7 @@
       <categories>
 	<category>Today</category>
 	<category>Parents</category>
-	<category>Featured</category> 
+	<category>Featured</category>
         <category>Productivity</category>
       </categories>
       <filters />
@@ -815,7 +854,7 @@
     <app>
       <name>GS Kids! Preschool Letters</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/4d0266a2-4476-4e1c-b0a7-3fe5f09e2d4d</image>
-	  <win8>28081159-2331-4d0d-ac2f-1b1f160fa3de</win8>    
+	  <win8>28081159-2331-4d0d-ac2f-1b1f160fa3de</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Try GS Kids! Preschool Letters: It teaches English through fun, eye-catching games & rewards that kids will love!]]></tweet>
@@ -825,7 +864,7 @@
       <priority>140121</priority>
       <categories>
 	<category>Kids</category>
-	<category>Featured</category> 
+	<category>Featured</category>
         <category>Activity Book</category>
         <category>Pre-schooler (3-5 years)</category>
         <category>Young Child (5-8 years)</category>
@@ -862,7 +901,7 @@
       <priority>141003</priority>
       <categories>
 	<category>Parents</category>
-	<category>Featured</category> 
+	<category>Featured</category>
         <category>Translators</category>
         <category>Traveling</category>
 	<category>Study Aids</category>
@@ -882,7 +921,7 @@
 <app>
       <name>WhatsAlarm</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/17683e46-819f-4ea2-bfa8-3d6b374a02ab</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[WhatsAlarm analyzes your sleep & wakes you up at the best time—smart restrictions even ensure you don't oversleep!]]></tweet>
@@ -892,7 +931,7 @@
       <priority>140929</priority>
       <categories>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Productivity</category>
       </categories>
       <filters />
@@ -909,7 +948,7 @@
 <app>
       <name>Pig Jump!</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/96a0ee82-ac34-4d2d-9df7-b15efde833a5</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Do the Pig Jump! Avoid/shoot evil creatures to get the most coins & points in this charming endless running game!]]></tweet>
@@ -920,7 +959,7 @@
       <categories>
 		<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Games</category>
         <category>Older Child (9-12 years)</category>
         <category>Puzzles and Strategy</category>
@@ -951,7 +990,7 @@
 <app>
       <name>Pet Run</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/251feda9-7444-4509-aafb-d2601757e578</image>
-	  <win8>22094921-ba19-4849-8474-274f8cadb333</win8> 
+	  <win8>22094921-ba19-4849-8474-274f8cadb333</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[RUN & collect items or power-ups in the charming 3D Pet Run! It even has day/night cycle & dynamic weather system!]]></tweet>
@@ -962,7 +1001,7 @@
       <categories>
 		<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Games</category>
         <category>Older Child (9-12 years)</category>
         <category>Puzzles and Strategy</category>
@@ -993,7 +1032,7 @@
 <app>
       <name>Scorched Toast</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/2c7a075b-e4df-44b1-b4f8-2adce48052ed</image>
-	  <win8>67d03791-1431-4ae4-9e16-6540338f8775</win8> 
+	  <win8>67d03791-1431-4ae4-9e16-6540338f8775</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Aim for the sky & land breakfast foods on a plate in the quirky physics-based projectile game Scorched Toast!]]></tweet>
@@ -1036,7 +1075,7 @@
     <app>
       <name>Crazy Ball Adventures</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/1a86cecb-f4c8-400d-9339-e8fcc09748cc</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Keep a rolling ball from falling off its path as you get pts along the way in the 3D game Crazy Ball Adventures!]]></tweet>
@@ -1079,7 +1118,7 @@
       <app>
       <name>MobileOCR</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/c9e6ed13-34f8-4a1e-bf04-5b4908567c24</image>
-	  <win8>false</win8>     
+	  <win8>false</win8>
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Scan hard copies of your documents w/ MobileOCR: it makes scanned text editable! Multi-language support available!]]></tweet>
@@ -1090,7 +1129,7 @@
       <categories>
 		<category>Today</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Productivity</category>
       </categories>
       <filters />
@@ -1106,7 +1145,7 @@
   	<app>
       <name>SpellRush</name>
   	  	<image>http://cdn.marketplaceimages.windowsphone.com/v8/images/19ce4739-8fe9-4d92-bbd2-79ace9c32a74</image>
-	  	<win8>de470b7d-0917-4fca-afae-5319e9e23cff </win8> 
+	  	<win8>de470b7d-0917-4fca-afae-5319e9e23cff </win8>
     	<review>0</review>
 		<free>FREE APP!</free>
 		<tweet><![CDATA[Become quick & accurate in spelling with SpellRush! It tracks game performance to help users, kids/adults, improve!]]></tweet>
@@ -1114,14 +1153,14 @@
 		<bitly>http://bit.ly/1vxBXuG</bitly>
 		<id>71002e7e-03d9-4edd-b1e6-8bfafb5ccf63</id>
 		<priority>140813</priority>
-		<categories> 
+		<categories>
 			<category>Kids</category>
 			<category>Parents</category>
-			<category>Featured</category> 
-			<category>Literacy</category> 
+			<category>Featured</category>
+			<category>Literacy</category>
 			<category>Older Child (9-12 years)</category>
 			<category>Young Child (5-8 years)</category>
-			<category>Teenager</category> 
+			<category>Teenager</category>
 			<category>Study Aids</category>
 	 	</categories>
 		<filters />
@@ -1137,7 +1176,7 @@
     <app>
       <name>MemoLocation</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/57ed7691-1da2-41d4-9c0e-a279deb5ba66</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Never forget to visit places with MemoLocation—just make memos & it'll alert you next time you're near the location!]]></tweet>
@@ -1147,7 +1186,7 @@
       <priority>140813</priority>
       <categories>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Traveling</category>
       </categories>
       <filters />
@@ -1163,7 +1202,7 @@
       <app>
       <name>MyCollections</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/163e1229-7fbe-4df9-805a-23faa039b673</image>
-	  <win8>false</win8>     
+	  <win8>false</win8>
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Make collections of contacts, passwords & media w/ MyCollections. It securely saves, imports & restores your data!]]></tweet>
@@ -1174,7 +1213,7 @@
       <categories>
 		<category>Today</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Productivity</category>
       </categories>
       <filters />
@@ -1190,7 +1229,7 @@
     <app>
       <name><![CDATA[Add & Subtract]]></name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/ae7243a5-251e-4fbf-b91c-387e1b24363d</image>
-	   <win8>false</win8>    
+	   <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Learn to Add & Subtract: right answers get stars & help you advance levels. Game achievements and summaries available!]]></tweet>
@@ -1200,7 +1239,7 @@
       <priority>140724</priority>
       <categories>
 		<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Geeky</category>
         <category>Math</category>
         <category>Older Child (9-12 years)</category>
@@ -1220,7 +1259,7 @@
 	<app>
       <name>RecNote</name>
 	  <image>http://wscont1.apps.microsoft.com/winstore/1x/5971fd34-d532-4510-bc37-ce81518976d9/Icon.314519.png</image>
-	  <win8>771a1a33-fbcc-4409-b5d2-0e7ee4199188</win8>    
+	  <win8>771a1a33-fbcc-4409-b5d2-0e7ee4199188</win8>
 	  <review>0</review>
       <free>TBD</free>
       <tweet><![CDATA[Make/Share bookmarks of specific times in YouTube vids w/ RecNote—it's speech enabled & Xbox Music integrated too!]]></tweet>
@@ -1231,7 +1270,7 @@
       <categories>
 	  	<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Photography and Video</category>
 		<category>Older Child (9-12 years)</category>
 		<category>Teenager</category>
@@ -1249,7 +1288,7 @@
   <app>
       <name>Firefly Runner</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/eeae6413-a43d-4059-8362-8c6e96463ea7</image>
-	  <win8>85c3360d-6d90-4c47-b793-979a0dc8edf7</win8> 
+	  <win8>85c3360d-6d90-4c47-b793-979a0dc8edf7</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Play as Switch the hero firefly & run, fly, or shoot evil foes in the magical 3D running game Firefly Runner!]]></tweet>
@@ -1290,7 +1329,7 @@
     <app>
       <name>PoP!</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/ddfa33e7-df62-4f8d-910d-4f94f0d61945</image>
-	  <win8>f5bec976-a10e-4a2a-aee9-7e65a7ba4f75</win8>    
+	  <win8>f5bec976-a10e-4a2a-aee9-7e65a7ba4f75</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Have your own dessert factory & PoP! bubbles filled w/ ingredients for new recipes. "Combo pops" earn more points!]]></tweet>
@@ -1301,7 +1340,7 @@
       <categories>
 	 <category>Kids</category>
 	<category>Parents</category>
-	<category>Featured</category> 
+	<category>Featured</category>
         <category>Older Child (9-12 years)</category>
         <category>Puzzle Adict</category>
         <category>Puzzles and Strategy</category>
@@ -1322,7 +1361,7 @@
 <app>
       <name>Wordsnap</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/a9886198-7185-42db-99cd-8c3ecfa8d457</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Combine tiles worth diff. points to form the most words in 2 minutes w/ Wordsnap! The game supports 10 languages!]]></tweet>
@@ -1333,7 +1372,7 @@
       <categories>
 	  	<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Games</category>
         <category>Puzzles and Strategy</category>
         <category>Older Child (9-12 years)</category>
@@ -1354,7 +1393,7 @@
 <app>
       <name>Mr Rabbit 3D</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/6142d038-9bb5-41f4-b9b7-00809a913601</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Help a friendly rabbit get past inanimate objects & hostile creatures as it gathers yummy carrots in Mr Rabbit 3D!]]></tweet>
@@ -1396,7 +1435,7 @@
     <app>
       <name>IQ Safe</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/4a9479e0-0a19-4f6a-967a-100dbbc35907</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Test your smarts or luck & break the code in IQ Safe! It has over 100 challenges of varying difficulty available!]]></tweet>
@@ -1439,7 +1478,7 @@
     <app>
       <name>Crazy Ball Deluxe</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/f022c4c8-5a71-422e-b94d-acde6c2e5d5c</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Move a tiny ball through a big maze in Crazy Ball Deluxe! Nice gameplay & 3D graphics ensure hours of puzzle fun!]]></tweet>
@@ -1482,7 +1521,7 @@
       <app>
       <name>Dog Parks</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/d7e9feda-6619-4429-a3ad-50e0f382e81e</image>
-	  <win8>7c0ce9a1-7bf6-4763-9f3c-1c7abf932ab9</win8>     
+	  <win8>7c0ce9a1-7bf6-4763-9f3c-1c7abf932ab9</win8>
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Take your dogs to great, new parks w/ Dog Parks: it finds parks in 17 states & 5 more cities (list is growing!).]]></tweet>
@@ -1520,7 +1559,7 @@
       <priority>140515</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Pre-schooler (3-5 years)</category>
         <category>Toddler (18-36 months)</category>
         <category>Skill Development</category>
@@ -1541,7 +1580,7 @@
     <app>
       <name>Flags</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/0f9a277a-92ab-4062-b0af-d92bb6c6e4e8</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free />
       <tweet><![CDATA[Memorize world flags with Flags: it's a fun quiz app with real aspect-ratio flag pics & an audio pronunciation guide!]]></tweet>
@@ -1577,7 +1616,7 @@
     <app>
       <name>Spelling Games</name>
 	  <image>http://windowsparent.com/devs/images/dce4d016-74a6-43e6-a5b0-2e0e2f59d32b.png</image>
-	  <win8>dce4d016-74a6-43e6-a5b0-2e0e2f59d32b</win8> 
+	  <win8>dce4d016-74a6-43e6-a5b0-2e0e2f59d32b</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Try Spelling Games: its varied games & customizable word selection let you focus on difficult words in a fun way!]]></tweet>
@@ -1613,7 +1652,7 @@
     <app>
       <name>Heartbeats Radio</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/af490f98-d72b-4dbf-b888-b631dc1cf18e</image>
-	  <win8>845fdf53-abed-415c-977b-1c86c1f49b1f</win8>     
+	  <win8>845fdf53-abed-415c-977b-1c86c1f49b1f</win8>
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Access DJ Le Gammeltoft's station w/ Heartbeats Radio: it works in the background & plays as you use your phone!]]></tweet>
@@ -1640,7 +1679,7 @@
   	<app>
       <name>Realarm</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/83ccfafc-9d00-43e1-8c64-3d8a271eb76a</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Is your alarm no longer waking you up in the morning? Customize it w/ Realarm & set which alarm sound plays when!
@@ -1651,7 +1690,7 @@
       <priority>140409</priority>
       <categories>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Productivity</category>
       </categories>
       <filters />
@@ -1678,7 +1717,7 @@
       <priority>140409</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Pre-schooler (3-5 years)</category>
         <category>Toddler (18-36 months)</category>
         <category>Skill Development</category>
@@ -1699,7 +1738,7 @@
     <app>
       <name>Math aMaze</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/912ef4c3-dd5b-4ea9-9204-100d751af8ed</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Get out of a maze by solving math problems in Math aMaze! Its study aids & shareable charts make math easy & fun!]]></tweet>
@@ -1709,7 +1748,7 @@
       <priority>140409</priority>
       <categories>
 		<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Geeky</category>
         <category>Math</category>
         <category>Older Child (9-12 years)</category>
@@ -1729,7 +1768,7 @@
     <app>
       <name>BookBuddi Talking Picture Books</name>
 	  <image>http://windowsparent.com/devs/images/a6052df5-8ad0-46cf-ae9a-d13e405b7548.png</image>
-	  <win8>a6052df5-8ad0-46cf-ae9a-d13e405b7548</win8> 
+	  <win8>a6052df5-8ad0-46cf-ae9a-d13e405b7548</win8>
       <review>0</review>
       <free />
       <tweet><![CDATA[Reinforce your maths & science w/ BookBuddi Talking Picture Books: speedread & repetition control also available!]]></tweet>
@@ -1763,7 +1802,7 @@
       <app>
       <name>Animal Face</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/119216dc-0e50-43dc-b2c5-df2aa3a4a8e2</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	  <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Put your Animal Face on! The app has 15 FREE animal faces you can add to new pics or old ones in your camera roll!]]></tweet>
@@ -1775,7 +1814,7 @@
 	  	<category>Kids</category>
 		<category>Parents</category>
 		<category>Animal Fun</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Photography and Video</category>
       </categories>
       <filters />
@@ -1791,7 +1830,7 @@
     <app>
       <name>11.000+ Cool Facts</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/c7aba401-cfd9-4b62-9bbc-7afc60bf79d0</image>
-	  <win8>741472f0-2c72-4177-a022-41aa4356ceb1</win8> 
+	  <win8>741472f0-2c72-4177-a022-41aa4356ceb1</win8>
       <review>0</review>
       <free />
       <tweet><![CDATA[Get 11.000+ Cool Facts to share via text / email / social media! App even reads out to you if you can't tap/swipe!]]></tweet>
@@ -1827,7 +1866,7 @@
       <app>
       <name>Kid Reader</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/a7de4b39-59de-4c3a-ad83-9efc43876661</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free />
       <tweet><![CDATA[Make audiobooks w/ your own pics & voice recordings or save copies of existing books to your phone w/ Kid Reader!]]></tweet>
@@ -1864,7 +1903,7 @@
     <app>
       <name>4 Music Rooms</name>
 	  <image>http://windowsparent.com/devs/images/51afb993-33a8-414d-8fd0-2b45f3a1d485.png</image>
-	  <win8>51afb993-33a8-414d-8fd0-2b45f3a1d485</win8> 
+	  <win8>51afb993-33a8-414d-8fd0-2b45f3a1d485</win8>
       <review>0</review>
       <free />
       <tweet><![CDATA[Need to know more about music theory & reading scores? Try 4 Music Rooms: it's designed to help users of all ages!]]></tweet>
@@ -1879,7 +1918,7 @@
         <category>Literacy</category>
         <category>Young Child (5-8 years)</category>
         <category>Older Child (9-12 years)</category>
-        <category>Teenager</category>	
+        <category>Teenager</category>
       </categories>
       <filters>
         <filter>6 year old</filter>
@@ -1904,7 +1943,7 @@
     <app>
       <name>Read 2 Me Toddlers</name>
 	  <image>http://windowsparent.com/devs/images/63d7d500-988f-43fe-8d1b-063829bf3e61.png</image>
-	  <win8>63d7d500-988f-43fe-8d1b-063829bf3e61</win8> 
+	  <win8>63d7d500-988f-43fe-8d1b-063829bf3e61</win8>
       <review>0</review>
       <free />
       <tweet><![CDATA[Encourage kids to read with Read 2 Me Toddlers: Read the 1st book in 3 modes: Read to Me, Read by Myself & Autoplay!]]></tweet>
@@ -1943,7 +1982,7 @@
       <app>
       <name>Vantage Point</name>
 	  <image>http://windowsparent.com/devs/images/ac78eddb-c8ba-41b2-a7e8-843147ccc0b1.png</image>
-	  <win8>ac78eddb-c8ba-41b2-a7e8-843147ccc0b1</win8> 
+	  <win8>ac78eddb-c8ba-41b2-a7e8-843147ccc0b1</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[How did your home/school looked many years ago? Find out w/ Vantage Point & share pics on social network sites!]]></tweet>
@@ -1983,7 +2022,7 @@
     <app>
       <name>NumberTap</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/febed708-a3f3-4082-b696-c157580acc80</image>
-	  <win8>43336cc7-8c24-4d11-bec9-febd6a61cbe8</win8>    
+	  <win8>43336cc7-8c24-4d11-bec9-febd6a61cbe8</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Quick! What's 95 + 75? Try NumberTap & test how fast you can solve math problems. Leaderboards & stats available!]]></tweet>
@@ -1993,7 +2032,7 @@
       <priority>140121</priority>
       <categories>
 		<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Geeky</category>
         <category>Math</category>
         <category>Older Child (9-12 years)</category>
@@ -2013,7 +2052,7 @@
     <app>
       <name>Preschool Games</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/7a4859b9-3af6-4806-9aff-7b76bf4642ee</image>
-	  <win8>b6708ce1-8de2-45ae-a6a5-d21ad01f29bd</win8>    
+	  <win8>b6708ce1-8de2-45ae-a6a5-d21ad01f29bd</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Preschool Games is a lovely app that encourages 3- to 6-year-olds to learn diverse skills they can use in school!]]></tweet>
@@ -2023,7 +2062,7 @@
       <priority>140121</priority>
       <categories>
 		<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Activity Book</category>
         <category>Pre-schooler (3-5 years)</category>
         <category>Young Child (5-8 years)</category>
@@ -2050,7 +2089,7 @@
     <app>
       <name>Valentines Day Cards</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/f3e28215-b525-4e97-a659-e6a50301fb83</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Send love this year w/ Valentines Day Cards: use over 50 cards & photo effects to personalize each greeting!]]></tweet>
@@ -2077,7 +2116,7 @@
 	<app>
       <name>Chess</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/6d3243f7-f8c4-4a2a-a211-8bd6fb56a67d</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Play chess alone or w/ friends w/ the award-winning Chess! It has autosave, undo & more: play anytime, anywhere!]]></tweet>
@@ -2114,14 +2153,14 @@
       <thebads />
       <theuglys />
       <theamazings />
-      <video />      
+      <video />
 	  <versionreviewed />
       <ratingdetails />
     </app>
     <app>
       <name>Puzzle Frenzy Kids</name>
 	  <image>http://windowsparent.com/devs/images/eb9edbff-4fd5-44f5-a731-e6b34cac0b8e.jpg</image>
-	  <win8>eb9edbff-4fd5-44f5-a731-e6b34cac0b8e</win8> 
+	  <win8>eb9edbff-4fd5-44f5-a731-e6b34cac0b8e</win8>
       <review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Puzzle Frenzy Kids has 9- to 36-piece puzzles for kids of all ages. Pause, shuffle pieces & get hints, too!]]></tweet>
@@ -2161,7 +2200,7 @@
       <app>
       <name>Skylanders Videos</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/508fdd94-9d3f-493b-b440-e200b8e36714</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Skylanders fans, learn the best game secrets w/ Skylanders Videos! Its offers tips on gameplay, co-op play & more!]]></tweet>
@@ -2197,14 +2236,14 @@
       <thebads />
       <theuglys />
       <theamazings />
-      <video />      
+      <video />
 	  <versionreviewed />
       <ratingdetails />
     </app>
       <app>
       <name>Calendar Calleague</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/fd5dc2cf-01b7-4e11-bb10-3674abd66493</image>
-	  <win8>false</win8>     
+	  <win8>false</win8>
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Get Calendar Calleague & dial numbers straight from your day/week/month notes, Live Tile & lock-screen updates!]]></tweet>
@@ -2215,7 +2254,7 @@
       <categories>
 		<category>Today</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Productivity</category>
       </categories>
       <filters />
@@ -2231,7 +2270,7 @@
       <app>
       <name>Money Manager Pro</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/e7e79fe2-f584-4326-8bcc-4de2454134bf</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Handle cash/expenses w/ Money Manager Pro! Voice command, reports, Live Tile, currency converter & more available!]]></tweet>
@@ -2261,7 +2300,7 @@
     <app>
       <name>Brick Manager</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/1b8d7c20-be7c-4d0b-aed0-0ceb7385f86a</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Lego fans, check out Brick Manager: browse/search the whole Lego catalog so you can manage your own collection!]]></tweet>
@@ -2298,7 +2337,7 @@
       <app>
       <name>Christmas Cards</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/2f668ca1-bc90-4a98-8b28-9ef2e5c081d2</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Try Christmas Cards & modify tons of templates or use many photo effects so you can add your pics in the cards!]]></tweet>
@@ -2325,7 +2364,7 @@
     <app>
       <name>Interactive Educational Magazine for Kids</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/85049474-5473-4082-a585-51cee1e23a45</image>
-	  <win8>ad532253-3b4f-48d3-9f96-75896fbf5302</win8>    
+	  <win8>ad532253-3b4f-48d3-9f96-75896fbf5302</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Buy Interactive Educational Magazine for Kids & access its paid magazines/workbooks—perfect for kids ages 1 to 10!]]></tweet>
@@ -2335,7 +2374,7 @@
       <priority>140102</priority>
       <categories>
 		<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Activity Book</category>
         <category>Pre-schooler (3-5 years)</category>
         <category>Young Child (5-8 years)</category>
@@ -2361,7 +2400,7 @@
       <app>
       <name>CashBack Categories</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/aa95a595-d4e0-4757-8ae0-78fba9e9f832</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Save more with each purchase: CashBack Categories compares credit cards to show which gives you the most rewards!]]></tweet>
@@ -2389,7 +2428,7 @@
       <app>
       <name>To-Do Prime</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/c88cf549-60c2-457c-8d30-aa291b07b819</image>
-	  <win8>642865bc-beb8-45eb-b8d0-3b6301d072a1</win8>     
+	  <win8>642865bc-beb8-45eb-b8d0-3b6301d072a1</win8>
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Create notes on various devices with To-Do Prime: it has color tags, voice recording, alerts & many sorting options!]]></tweet>
@@ -2400,7 +2439,7 @@
       <categories>
 		<category>Today</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Productivity</category>
       </categories>
       <filters />
@@ -2416,7 +2455,7 @@
     <app>
       <name>Angry Birds Videos</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/5f73f7cb-203a-4a40-9e5a-f0eeb5ebabe5</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Learn tricks to winning Angry Birds w/ Angry Birds Videos! It offers cartoons, game secrets, walkthroughs & more!]]></tweet>
@@ -2453,14 +2492,14 @@
       <thebads />
       <theuglys />
       <theamazings />
-      <video />      
+      <video />
 	  <versionreviewed />
       <ratingdetails />
     </app>
     <app>
       <name>Shoppers Calculator</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/4b15569b-0493-4421-af3a-20f938323eb5</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Instantly get the discounted total of your purchases w/ Shoppers Calculator—8 kinds of discounts to choose from!]]></tweet>
@@ -2490,7 +2529,7 @@
     <app>
       <name>MyTextTwister</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/3455b6af-6b4f-47f6-a003-32afd7704a6a</image>
-	  <win8>1f882c3e-a616-42e1-9145-cf646ae265da</win8> 
+	  <win8>1f882c3e-a616-42e1-9145-cf646ae265da</win8>
       <review>http://windowsparent.com/app-reviews/best-app-for-texting-holiday-greetings-mytexttwister/</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Express yourself with MyTextTwister & send out a ʎzɐɹɔ holiday cheer with special effect texts, 1200+ emoticons, cute art! ]]></tweet>
@@ -2500,7 +2539,7 @@
       <priority>121224</priority>
       <categories>
 	  	<category>Kids</category>
-	  	<category>Teenagers</category>		
+	  	<category>Teenagers</category>
 		<category>Parents</category>
 		<category>Featured</category>
         <category>Christmas</category>
@@ -2536,7 +2575,7 @@
     <app>
       <name>Snow Day!</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/a8167f35-0e26-4caf-90e5-f02c877d836f</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Tap away snowflakes & snowballs to keep a snowbank from getting too high in the fun Christmas-themed game Snow Day!]]></tweet>
@@ -2586,7 +2625,7 @@
       <categories>
 	  	<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
 		<category>Animal Fun</category>
         <category>Parent Apps</category>
         <category>Stress Relievers</category>
@@ -2611,7 +2650,7 @@
     <app>
       <name>Santa Racer</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/d5fddc09-4633-4444-914d-3ca2f60c6d3d</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[O what fun it is to play SantaRacer!Help Santa & reindeer dash away to collect presents while dodging dangerous rocks!]]></tweet>
@@ -2648,7 +2687,7 @@
       <app>
       <name>Christmas Presents</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/5a1d8d95-88b2-4f46-ba58-f3e5e80afd42</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free />
       <tweet><![CDATA[Fret no more this holiday! Easily manage ur to do list using Christmas Presents. Track ur $, gifts, names, & more!]]></tweet>
@@ -2688,12 +2727,12 @@
       <categories>
 		<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Games</category>
         <category>Game Classics</category>
 		<category>Stress Relievers</category>
         <category>Older Child (9-12 years)</category>
-        <category>Puzzle Adict</category>		
+        <category>Puzzle Adict</category>
         <category>Teenager</category>
       </categories>
       <filters />
@@ -2709,7 +2748,7 @@
       <app>
       <name>Christmas Bells Free</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/ed6563b7-6ab0-4503-a59a-c992cf8a5d7f</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[A caroling we will go! Play a holiday tune with lyrics using Christmas Bells. Great app to ring in the holiday spirit!]]></tweet>
@@ -2751,7 +2790,7 @@
 	<app>
       <name>Start Slideshow</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/36b1a821-ef9b-4785-8072-f4fb5a974fe1</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	  <review>0</review>
       <free>TBD</free>
       <tweet><![CDATA[Start Slideshow turns your pictures hub into a fun slideshow of memories—w/ speech navigation & view options, too!]]></tweet>
@@ -2762,7 +2801,7 @@
       <categories>
 	  	<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Photography and Video</category>
 		<category>Older Child (9-12 years)</category>
 		<category>Teenager</category>
@@ -2780,7 +2819,7 @@
       <app>
       <name>Rhyming with Palmer</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/e549f380-2544-4dc9-9d33-e2fcdd2bfeb4</image>
-	  <win8>bd006809-d963-43f1-a9d5-4940dd330c18</win8> 
+	  <win8>bd006809-d963-43f1-a9d5-4940dd330c18</win8>
       <review>0</review>
       <free />
       <tweet><![CDATA[Get kids rhyming w/ Rhyming with Palmer! It also develops their auditory memory & ability to hear sounds in words!]]></tweet>
@@ -2819,7 +2858,7 @@
       <app>
       <name>Sound Meditation</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/0aa84495-fc5b-4f2f-afcd-055d0d404d1c</image>
-	  <win8>false</win8>     
+	  <win8>false</win8>
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Sound Meditation's custom sound compilations & meditation guide will help you escape the chaos of everyday life!]]></tweet>
@@ -2846,7 +2885,7 @@
      <app>
       <name>Gifts</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/e7507e7b-e025-4b10-9f52-e064ca5d1228</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>http://windowsparent.com/app-reviews/best-windows-phone-apps-for-christmas-holiday-gifts/</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Gifts—The ideal gift list! Easy to sort & share. Also, keep track of your budget by checking prices on-line!]]></tweet>
@@ -2887,14 +2926,14 @@
 <li><strong>Price finder –</strong>&nbsp;Once you tap on the price icon in the application bar, the item you have selected from the list is searched online. The app redirects you to Google Shopping page where you can view all the items with the same name as you selected item, including their prices.</li>
 <li><strong>Christmas countdown timer – </strong>The<strong> </strong>number of days left before Christmas can be seen on the upper right corner of the list.</li>
 </ul>]]></theamazings>
-      <video />      
+      <video />
 	  <versionreviewed />
       <ratingdetails />
     </app>
 	    <app>
       <name>Mr. Snowman</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/a1f2546c-2e10-4e35-b875-a50eb4d256a2</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Does your snowman have hair? Is it happy or sad? You choose! Tons of fun creating your very own with Mr Snowman!]]></tweet>
@@ -2940,7 +2979,7 @@
       <app>
       <name>Paper Snow</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/41aeb405-6f34-43b9-aca4-00cb6fbe2cd5</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Its a jolly time making paper snowflakes w/Paper Snow!Put on ur own pics or choose from Xmas backgrounds & share!]]></tweet>
@@ -2980,7 +3019,7 @@
       <app>
       <name>SmartKid Maths</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/c009eb50-3253-4237-bb3f-d4becb653ba6</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Try SmartKid Maths: It's a COPPA-compliant app w/ 1000s of exercises perfect for preschoolers & 1st/2nd graders!]]></tweet>
@@ -2990,7 +3029,7 @@
       <priority>131211</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Geeky</category>
         <category>Math</category>
         <category>Older Child (9-12 years)</category>
@@ -3010,7 +3049,7 @@
       <app>
       <name>AlphaMatch Christmas</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/1f577d80-e57e-47dd-acd7-ff2089c96800</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Match letters/objects to each other or their first-letter sounds in the themed memory game AlphaMatch Christmas!]]></tweet>
@@ -3039,7 +3078,7 @@
       <app>
       <name>Holidays Slurpy</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/4d934b95-2082-44e6-b4ae-6d95e705307a</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Preschoolers learn with Slurpy the Frog playing Holidays Slurpy! Easy to follow yet challenging page-turning activities.]]></tweet>
@@ -3075,7 +3114,7 @@
       <app>
       <name>Sleigh</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/2743d1c0-f17a-4c78-87b2-5ce797c92cdc</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Dash over hills of snow thru many levels to help Santa find the lost presents & his reindeer with Sleigh! ]]></tweet>
@@ -3129,7 +3168,7 @@
       <priority>131112</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Pre-schooler (3-5 years)</category>
         <category>Toddler (18-36 months)</category>
         <category>Skill Development</category>
@@ -3161,7 +3200,7 @@
       <categories>
 	  	<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Cars trains and more</category>
         <category>Older Child (9-12 years)</category>
         <category>Stress Relievers</category>
@@ -3187,7 +3226,7 @@
     <app>
       <name>Train Crazy</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/adaa7178-4758-4b8d-8461-38fdd0ed3b2c</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Customize a moving train with new bells, colors, cars & more with Train Crazy! Collect all the modifications!]]></tweet>
@@ -3197,7 +3236,7 @@
       <priority>120154</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Cars trains and more</category>
         <category>Pre-schooler (3-5 years)</category>
         <category>Toddler (18-36 months)</category>
@@ -3220,7 +3259,7 @@
     <app>
       <name>Slurpy the Frog Free</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/01d7ac45-6558-4f41-b543-c36e24f42bcb</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Slurpy the Frog teaches kids about shapes, sizes, relationships & world facts. Challenging games, colorful graphics!]]></tweet>
@@ -3256,7 +3295,7 @@
     <app>
       <name>Jigsolve Me!</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/ff630a26-6448-4620-bca3-17eea453aec9</image>
-	  <win8>4a6b9fb3-575c-4c94-a01a-b61b3aec797d</win8> 
+	  <win8>4a6b9fb3-575c-4c94-a01a-b61b3aec797d</win8>
       <review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Jigsolve Me is a free jigsaw-puzzle app that uses the WHOLE screen. Adjustable difficulty & personalized puzzles!]]></tweet>
@@ -3306,7 +3345,7 @@
     <app>
       <name>Telling The Time</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/2390fadb-ed03-4116-9826-c3ba7635b48c</image>
-	  <win8>e1cd8094-f2cd-4907-a169-f7fc35f4e1b6</win8> 
+	  <win8>e1cd8094-f2cd-4907-a169-f7fc35f4e1b6</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Telling The Time's fun tests teach kids to tell the time on analog & digital clocks in the 12- OR 24-hour format!]]></tweet>
@@ -3347,7 +3386,7 @@
     <app>
       <name>Immunization Record</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/d75b6163-ec10-4f75-9549-251547aaaba4</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free />
       <tweet><![CDATA[No need to call the Dr! Have your children’s medical info in the palm of your hand with Immunization Record]]></tweet>
@@ -3380,7 +3419,7 @@
     <app>
       <name>Kleio Free</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/26c40223-fa3b-4c62-9a12-e006f5b9d9ae</image>
-	  <win8>b2ad1668-a2f4-4e54-96f9-c2d9770b7f20</win8> 
+	  <win8>b2ad1668-a2f4-4e54-96f9-c2d9770b7f20</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Learning on-the-go just got easy with Kleio Free’s Sophisticated Study Method which adjusts its difficulty as you learn!]]></tweet>
@@ -3417,7 +3456,7 @@
     <app>
       <name>Toy Xylophone</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/bce56837-0e1e-4d82-9e91-b0690eedf807</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>http://windowsparent.com/app-reviews/best-app-for-kids-musical-instrument-toy-xylophone/</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Kids will love Toy Xylophone! Fingers tapping away to Holiday & familiar folk songs on the coolest little keyboard!]]></tweet>
@@ -3479,7 +3518,7 @@
     <app>
       <name>Christmas</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/9a24ff34-87b3-401b-a760-c6261969c2ae</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Seasons Greetings texts, gift list, countdown the days til Xmas & ringtone in the holiday spirit with Christmas app!]]></tweet>
@@ -3510,7 +3549,7 @@
     <app>
       <name>Budget Buddy</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/75bf1386-bdc4-40b3-b934-c98a7fdf0bae</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Who needs an accountant? Or paperwork to bother with? Budget Buddy tracks, analyzes & can snap pics of your spending!]]></tweet>
@@ -3540,7 +3579,7 @@
     <app>
       <name>Baby Lullaby</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/e1ef4d3e-7cde-4b13-b25c-7e275e2d8fa1</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Baby Lullaby helps create calm environments for your baby with music box songs, soothing soundscapes or your recorded voice]]></tweet>
@@ -3548,7 +3587,7 @@
 	  <bitly>http://bit.ly/1wsoe2w</bitly>
       <id>e342e6de-9dd8-453a-bc9a-3bbccbb42d80</id>
       <priority>121226</priority>
-      <categories>  
+      <categories>
 		<category>Kids</category>
 		<category>Featured</category>
         <category>Expecting</category>
@@ -3575,7 +3614,7 @@
     <app>
       <name>Fun Voice</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/93cd07b9-e050-415b-b867-eaa97fa2d6c7</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Sound like a robot, buzz like a bee, speak slow like a turtle! Record, playback & share for more laughs with Fun Voice!]]></tweet>
@@ -3618,7 +3657,7 @@
     <app>
       <name>Cartoon Tube WP7</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/b4c14ae9-21b2-4f67-bea8-df79b53cab8b</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[YouTube’s cool,but not all is for li’l eyes to see. What to do?Try YouTube Junior! Fun for kids, peace of mind for parents.]]></tweet>
@@ -3660,7 +3699,7 @@
     <app>
       <name>ParentAssist</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/bca01ca2-361b-4389-a165-e2d5f8b02f60</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[ParentAssist tracks kids' feeding/sleep sched, diaper changes, med history & more—custom charts/reports available!]]></tweet>
@@ -3696,7 +3735,7 @@
     <app>
       <name>Pandoodle</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/a6dc3839-4b37-45dd-b6f8-40983a873e59</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Connect shapes w/color lines by linking them & intersect them to create new colors w/ Pandoodle a fun tracing game]]></tweet>
@@ -3742,7 +3781,7 @@
 		<app>
       <name>CatCentrate!</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/bba63fb9-6e50-4336-a74d-76353c7041d0</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Like cats & playing memory games? Check out CatCentrate: it's the perfect game app for cat lovers of all ages!]]></tweet>
@@ -3753,7 +3792,7 @@
       <categories>
 	  	<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Memory</category>
         <category>Older Child (9-12 years)</category>
         <category>Pre-schooler (3-5 years)</category>
@@ -3790,7 +3829,7 @@
     <app>
       <name>Math Knockout</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/b9dacc27-f876-406b-b106-f168e22dacd4</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Play Math Knockout & make arithmetic fun: Just choose the right operations to combine numbers so they equal 1–24!]]></tweet>
@@ -3800,7 +3839,7 @@
       <priority>130415</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>n</category>
         <category>Math</category>
         <category>Older Child (9-12 years)</category>
@@ -3838,7 +3877,7 @@
     <app>
       <name>Sansu</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/2fc67d9b-ca82-4cc4-ae3e-0c6b3d2f0b4d</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>http://windowsparent.com/app-reviews/math-games-puzzles-sansu/</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Choose numbers to add/subtract/multiply/divide & complete equations as fast as you can in the fun math game Sansu!]]></tweet>
@@ -3903,7 +3942,7 @@
     <app>
       <name>Toddler Paint</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/8e2eb414-d648-4b96-9b84-84f3b90680a8</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>http://windowsparent.com/app-reviews/best-easy-drawing-apps-for-babies-toddlers-toddler-paint/</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[With no complex settings or drop-down boxes, Toddler Paint is one painting app that's truly for little ones. Try it today!]]></tweet>
@@ -3955,7 +3994,7 @@
     <app>
       <name>Omps</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/33a8d138-05bf-41bf-9cb6-5f586f5d93b7</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE  APP!</free>
       <tweet><![CDATA[Teach little ones to identify letters, numbers & shapes with Omps: just tap the screen to make them appear!]]></tweet>
@@ -3994,7 +4033,7 @@
     <app>
       <name>Palmer's ABC</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/66cb0344-a9f2-4194-b598-19de97901467</image>
-	  <win8>08573854-f693-4782-9ca5-c64b47378641</win8> 
+	  <win8>08573854-f693-4782-9ca5-c64b47378641</win8>
       <review>0</review>
       <free />
       <tweet><![CDATA[Let a cute golden retriever teach you the alphabet w/ Palmer's ABC. It's great for kids to use even on their own!]]></tweet>
@@ -4034,7 +4073,7 @@
     <app>
       <name>iRewardChart</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/afac69ce-888d-4f08-8466-875afbec32e9</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[If you're looking for a positive reinforcement award system here is iRewardChart!]]></tweet>
@@ -4065,7 +4104,7 @@
     <app>
       <name>MathMagic</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/2fd049c8-9d77-4bc2-b982-8662a150e055</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Need a good math quiz for kids? Try MathMagic! It uses positive reinforcement & vibrant graphics to make math fun!]]></tweet>
@@ -4119,7 +4158,7 @@
     <app>
       <name>Michael's Math Zoo</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/39d8f579-f3e7-4380-9ca3-13aebc5eeae9</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Build your own zoo w/ the game-quiz app Michael's Math Zoo! Correct answers get you new things to add to your zoo!]]></tweet>
@@ -4129,7 +4168,7 @@
       <priority>130703</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Activity Book</category>
         <category>n</category>
         <category>Math</category>
@@ -4159,7 +4198,7 @@
     <app>
       <name>Baby Toy Phone – Musical Babies Game Free</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/7248dcf1-5507-434a-af93-bbeab95addd6</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Instantly make your phone baby-friendly w/ Baby Toy Phone: it entertains kids w/ songs & big, adorable graphics!]]></tweet>
@@ -4198,7 +4237,7 @@
     <app>
       <name>Charlie Chucker</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/cb9a783b-77c9-419c-a4e4-ecabbd527bb0</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Dolls are boring? Try Charlie Chucker & swing ragdolls in the wildest weather! It's 60 levels of unique physics fun!]]></tweet>
@@ -4244,7 +4283,7 @@
     <app>
       <name>Simplefects</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/f8571a84-f675-4462-bc11-b545c7403e2d</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Feeling creative? Make dancing graphics with Simplefects: Modify 18 visual effects with just a swipe of a finger!]]></tweet>
@@ -4291,7 +4330,7 @@
     <app>
       <name>Who Knew?</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/e06fd7dd-fb17-4a65-8079-ab79142c11cc</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free />
       <tweet><![CDATA[Ready to test your mastery of non–common sense knowledge? Checkout Who Knew? & learn a nice, new thing or two, today!]]></tweet>
@@ -4373,7 +4412,7 @@
 	<app>
       <name>Spelling Assistant</name>
   	  	<image>http://wscont1.apps.microsoft.com/winstore/1x/df37946c-d52a-4ff2-ab51-b90b55394127/Icon.98973.png</image>
-	  	<win8>0340803c-ab83-43d3-87f2-7edab0199355</win8> 
+	  	<win8>0340803c-ab83-43d3-87f2-7edab0199355</win8>
     	<review>0</review>
 		<free>FREE APP!</free>
 		<tweet><![CDATA[Spelling Assistant can actually read your words aloud to test your spelling. Simply enter your words and tap!]]></tweet>
@@ -4381,14 +4420,14 @@
 		<bitlyW8>http://bit.ly/1yZdGiW</bitlyW8>
 		<id>false</id>
 		<priority>131107</priority>
-		<categories> 
+		<categories>
 			<category>Kids</category>
 			<category>Parents</category>
-			<category>Featured</category> 
+			<category>Featured</category>
 			<category>Productivity</category>
-			<category>Literacy</category> 
+			<category>Literacy</category>
 			<category>Older Child (9-12 years)</category>
-			<category>Teenager</category> 
+			<category>Teenager</category>
 			<category>Study Aids</category>
 	 	</categories>
 		<filters />
@@ -4404,7 +4443,7 @@
       <app>
       <name>Halloween (Puzzle)</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/e4524641-146e-42c0-ad0c-a3ebdc346fcf</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Slide pieces of the puzzle to bring spooky pictures to life w/ Halloween (Puzzle)! Can you get thru all 3 levels?]]></tweet>
@@ -4444,7 +4483,7 @@
       <app>
       <name>2-3 y.o.’s quiz Free</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/8928b344-7a75-4670-bedb-e2683dfe013c</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Handy to have for curious toddlers to play. 2-3 y.o.'s quiz Free  keeps them engaged w/ this fun learning app!]]></tweet>
@@ -4454,7 +4493,7 @@
       <priority>121101</priority>
       <categories>
 		<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Activity Book</category>
         <category>Pre-schooler (3-5 years)</category>
         <category>Skill Development</category>
@@ -4485,7 +4524,7 @@
       <app>
       <name>Polyglot</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/317ec889-98c3-4b7e-b8fb-ae8a75b86991</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>http://windowsparent.com/app-reviews/best-translation-apps-polyglot/</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Studying language? TRY Polyglot—it translates 30+ languages & supports translation playback & voice-to-text input!]]></tweet>
@@ -4495,7 +4534,7 @@
       <priority>120176</priority>
       <categories>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Translators</category>
         <category>Traveling</category>
       </categories>
@@ -4533,7 +4572,7 @@
 	<app>
       <name>Whip Free</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/76a3c4d3-d30d-4acb-a91f-93f3502fa6e3</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	  <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Let it whip w/ Whip Free just like Sheldon from Big Bang Theory "The Weekend Vortex" episode! Fun sound w/out pain!]]></tweet>
@@ -4558,7 +4597,7 @@
     <app>
       <name>1App Budget</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/0369a8bf-3ab1-4c22-823a-21760d129bf6</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	  <review>http://windowsparent.com/app-reviews/best-budget-financial-apps-1app-budget/</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Manage finances with 1App Budget. You can even create graphs, set multiple budgets & use cloud storage!]]></tweet>
@@ -4568,7 +4607,7 @@
       <priority>120119</priority>
       <categories>
 	    <category>Parents</category>
-	    <category>Featured</category> 
+	    <category>Featured</category>
         <category>Finances</category>
       </categories>
       <filters />
@@ -4603,7 +4642,7 @@
     <app>
       <name>Trick Or Treat Concentration</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/9c216b9b-432d-4e26-8cb8-0acd6f8bd5a2</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Where are the matching spiderwebs? The pumpkins, skulls? Test your memory skills w/ Trick or Treat Concentration!]]></tweet>
@@ -4642,7 +4681,7 @@
     <app>
       <name>Funny Faces</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/33156635-19ef-4473-9dd2-3a2c82a4bc88</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	  <review>http://windowsparent.com/app-reviews/best-augmented-reality-effects-on-pictures-app-funny-faces/</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Add effects to LIVE camera-shots & turn friends into clowns, chimps, or even Chuck Norrises with Funny Faces!]]></tweet>
@@ -4653,7 +4692,7 @@
       <categories>
 	  	<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Photography and Video</category>
       </categories>
       <filters />
@@ -4683,7 +4722,7 @@
     <app>
       <name>Critter Cards- Halloween</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/6ce0c328-024e-4c95-8adf-e3094ee728ed</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Kids will love Critter Cards-Halloween phone app learning vocabulary words w/ hauntingly silly talking flashcards.]]></tweet>
@@ -4806,7 +4845,7 @@
       <priority>121113</priority>
       <categories>
 	  	<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Geeky</category>
         <category>Productivity</category>
       </categories>
@@ -4834,7 +4873,7 @@
       <categories>
 	  	<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Math</category>
         <category>Games</category>
         <category>Older Child (9-12 years)</category>
@@ -4869,7 +4908,7 @@
       <priority>120109</priority>
       <categories>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Translators</category>
         <category>Traveling</category>
       </categories>
@@ -4896,7 +4935,7 @@
       <priority>120153</priority>
       <categories>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Finances</category>
         <category>Parenting Tools</category>
         <category>Skill Development</category>
@@ -4924,7 +4963,7 @@
       <priority>120710</priority>
       <categories>
 		<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>e-books</category>
         <category>Pre-schooler (3-5 years)</category>
         <category>Young Child (5-8 years)</category>
@@ -4953,7 +4992,7 @@
       <categories>
 	  	<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Older Child (9-12 years)</category>
         <category>Literacy</category>
         <category>Study Aids</category>
@@ -4982,7 +5021,7 @@
       <priority>120713</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Pre-schooler (3-5 years)</category>
         <category>Literacy</category>
         <category>Young Child (5-8 years)</category>
@@ -5011,7 +5050,7 @@
       <categories>
 		<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Games</category>
         <category>Game Classics</category>
         <category>Older Child (9-12 years)</category>
@@ -5041,7 +5080,7 @@
       <priority>120131</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Activity Book</category>
         <category>Arts</category>
         <category>Coloring</category>
@@ -5073,7 +5112,7 @@
       <categories>
 	  	<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
 		<category>Animal Fun</category>
         <category>Parent Apps</category>
         <category>Stress Relievers</category>
@@ -5100,7 +5139,7 @@
     <app>
       <name>My Animal Age</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/ce7568b4-107e-4366-9e91-e8e99d0a0e98</image>
-	  <win8>false</win8>     
+	  <win8>false</win8>
 	 <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[How old are you in animal years? My Animal Age will tell you. 12 animal year calculations available!]]></tweet>
@@ -5110,7 +5149,7 @@
       <priority>120628</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Pre-schooler (3-5 years)</category>
         <category>Young Child (5-8 years)</category>
       </categories>
@@ -5127,7 +5166,7 @@
     <app>
       <name>Moody Marty</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/9774db00-4575-4bb1-8fd5-6487c2e3483a</image>
-	  <win8>false</win8>     
+	  <win8>false</win8>
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Record your moods or help your kids say theirs. Share moods via e-mail or social media too with Moody Marty!]]></tweet>
@@ -5137,7 +5176,7 @@
       <priority>120122</priority>
       <categories>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Health</category>
         <category>Parenting Tools</category>
       </categories>
@@ -5156,7 +5195,7 @@
     <app>
       <name>Lightning Dial</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/ae25b166-8bfb-4ca8-9f27-15d604db7e4b</image>
-	  <win8>false</win8>     
+	  <win8>false</win8>
 	 <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Create your own shortcuts to send specific texts/e-mails, search specific queries & more with Lightning Dial!]]></tweet>
@@ -5166,7 +5205,7 @@
       <priority>120116</priority>
       <categories>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Productivity</category>
       </categories>
       <filters />
@@ -5182,7 +5221,7 @@
     <app>
       <name>Khan Academy</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/179ea2c1-141a-4582-8f6f-6aca59516bde</image>
-	  <win8>d23cc2b2-c105-4db3-9946-e44bacc56f7b</win8>    
+	  <win8>d23cc2b2-c105-4db3-9946-e44bacc56f7b</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Get fast access to videos on KhanAcademy.org with Khan Academy & turn your phone into a mini-university!]]></tweet>
@@ -5192,7 +5231,7 @@
       <priority>120907</priority>
       <categories>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Geeky</category>
         <category>Study Aids</category>
       </categories>
@@ -5209,7 +5248,7 @@
     <app>
       <name>Jack of Math</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/630a7939-5bd2-48de-bc1e-4dfa6dacefc5</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Improve and monitor your kids' math skills with Jack of Math. Customize the number range, the time limit and more!]]></tweet>
@@ -5220,7 +5259,7 @@
       <categories>
 		<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Geeky</category>
         <category>Math</category>
         <category>Older Child (9-12 years)</category>
@@ -5248,7 +5287,7 @@
     <app>
       <name>Holidays Calendar</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/c1fbc272-44d6-4557-994c-40c0618d6b52</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Know the most fun & popular holidays with Holidays Calendar. Live Tile support, 7 holiday categories & more!]]></tweet>
@@ -5258,7 +5297,7 @@
       <priority>120158</priority>
       <categories>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>April's Fool Day</category>
         <category>Christmas</category>
         <category>Hanukkah</category>
@@ -5280,7 +5319,7 @@
 	    <app>
       <name>Gem Lines 2</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/1def0dd1-9340-428d-89bb-69229aad9aee</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Fill your gem-matching needs w/ Gem Lines 2! Leaderboards, achievements, play modes, themes & gem sets available!]]></tweet>
@@ -5291,7 +5330,7 @@
       <categories>
 	 	<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Older Child (9-12 years)</category>
         <category>Puzzle Adict</category>
         <category>Puzzles and Strategy</category>
@@ -5316,7 +5355,7 @@
     <app>
       <name>English Flashcards 1 from Langeroo</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/065dff1b-50b7-47a4-b506-603f6465151d</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[English Flashcards 1 from Langeroo with over 160 cards from 9 various topics. Flashcard Games also available!]]></tweet>
@@ -5324,9 +5363,9 @@
 	  <bitly>http://bit.ly/1CvWwcx</bitly>
       <id>b542fad0-6c47-40d2-a96f-11bf3347fef4</id>
       <priority>120114</priority>
-      <categories>  
+      <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Foreign Language</category>
         <category>Literacy</category>
       </categories>
@@ -5343,7 +5382,7 @@
     <app>
       <name>Draw Free!</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/f6fd8424-f357-46b7-8059-d6390382a2bc</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Make wonderful drawings and edit your pictures straight from your phone with Draw Free! ]]></tweet>
@@ -5353,7 +5392,7 @@
       <priority>120141</priority>
       <categories>
 		<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Arts</category>
         <category>Drawing</category>
         <category>Older Child (9-12 years)</category>
@@ -5373,7 +5412,7 @@
     <app>
       <name>DoodlePad</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/7830ed58-e5a2-4bb2-886e-f3605f896a9e</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Start with a blank canvas, or draw on your own photos with DoodlePad. Brush sizes/colors are customizable.]]></tweet>
@@ -5402,7 +5441,7 @@
     <app>
       <name>Croc Monsieur</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/04d76fe1-e44f-4292-8b83-646c95a084f1</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Save Croc Monsieur from pain by pulling out his bad teeth. Don't pull the wrong tooth, though. He bites! ]]></tweet>
@@ -5412,7 +5451,7 @@
       <priority>120148</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Pre-schooler (3-5 years)</category>
       </categories>
       <filters />
@@ -5431,7 +5470,7 @@
     <app>
       <name>Color Me Free</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/b3c62093-76e3-4a0c-83c0-73e453335929</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Teach the ABCs, 123s & more while your child colors outlined or invisible mystery drawings.  Fantastic art game! ]]></tweet>
@@ -5441,7 +5480,7 @@
       <priority>120140</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Arts</category>
         <category>Coloring</category>
         <category>Pre-schooler (3-5 years)</category>
@@ -5460,7 +5499,7 @@
     <app>
       <name>Cinderella</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/6667c0f6-ea2a-4c1e-98b3-165922fc5042</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Enjoy the magical tale of Cinderella. eBook app with a puzzle & multilingual audio!]]></tweet>
@@ -5472,7 +5511,7 @@
 	    <category>Today</category>
         <category>Arts</category>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>e-books</category>
         <category>Pre-schooler (3-5 years)</category>
         <category>Young Child (5-8 years)</category>
@@ -5490,7 +5529,7 @@
     <app>
       <name>Calorie Counter by FatSecret</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/113a4306-2f96-4f81-98de-30bf1a59a9b1</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[FatSecret's Calorie Counter has a food guide, food/exercise diary, weight chart & journal to help you be fit! ]]></tweet>
@@ -5515,7 +5554,7 @@
 	    <app>
       <name>Birthdays Diary</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/fb528623-5e39-4d0d-b0e7-6e56402bbd87</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Very customizable events calendar w/ Facebook integration, Live Tile support & more!]]></tweet>
@@ -5525,7 +5564,7 @@
       <priority>120722</priority>
       <categories>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Newborn</category>
         <category>Parenting Tools</category>
         <category>Productivity</category>
@@ -5546,7 +5585,7 @@
     <app>
       <name>Baby Cards Free </name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/b81f0bb8-1105-4bae-af45-a2bc15243007</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Baby Cards Free has a game, vocab library & interactive audio flash-cards in Japanese/Chinese/English!]]></tweet>
@@ -5571,7 +5610,7 @@
     <app>
       <name>Baby Book</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/4659dc6f-9f86-4a9e-ac9c-2ff1365c32a2</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Check out Baby Book! It records events, milestones & other important data. Add pics & view events in a time line!]]></tweet>
@@ -5581,7 +5620,7 @@
       <priority>120124</priority>
       <categories>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Expecting</category>
         <category>Newborn</category>
         <category>Parenting Tools</category>
@@ -5599,7 +5638,7 @@
     <app>
       <name>Ava's ABC</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/84befdc2-1bed-47f2-9717-13beeb69e9cb</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Ava's ABC has Flash cards, vivid graphics, big fonts & more to help kids learn the ABCs. It also plays "The A.B.C."!]]></tweet>
@@ -5625,7 +5664,7 @@
     <app>
       <name>Alpha Match</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/1c1eddc0-b34d-46a4-9a2c-9f043e131113</image>
-	  <win8>c5dc0fe3-c51a-4f66-8116-21389e696707</win8>    
+	  <win8>c5dc0fe3-c51a-4f66-8116-21389e696707</win8>
 	<review>0</review>
       <free>FREE APP! </free>
       <tweet><![CDATA[Check out AlphaMatch - a matching game with a twist. Match images, small/capital letters & initial sounds!]]></tweet>
@@ -5635,7 +5674,7 @@
       <priority>120121</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Memory</category>
         <category>Pre-schooler (3-5 years)</category>
         <category>Literacy</category>
@@ -5654,7 +5693,7 @@
     <app>
       <name>Angelina</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/f5479222-7118-4462-9022-620b54cb3419</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free/>
       <tweet><![CDATA[Dress up Angelina, the lovable tap-, ballet- & hip-hop-dancing mouse. Hundreds of possible outfit combinations!]]></tweet>
@@ -5664,7 +5703,7 @@
       <priority>120135</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Dress-up and Collages</category>
         <category>Music</category>
         <category>Pre-schooler (3-5 years)</category>
@@ -5683,7 +5722,7 @@
 	    <app>
       <name>1tap2send</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/577a2b92-0f99-461f-a76a-8cfd61551fbe</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[1tap2send lets you pin pre-fabricated messages to your start screen so you can send them in seconds.]]></tweet>
@@ -5693,7 +5732,7 @@
       <priority>120130</priority>
       <categories>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Productivity</category>
       </categories>
       <filters>
@@ -5715,7 +5754,7 @@
     <app>
       <name>Alphabuzzle</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/3459eeed-a589-4fe9-a1d4-e1015d934fb0</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Put uniquely shaped letter-tiles in the right order with Alphabuzzle. Get leaderboards & 100s of levels, too!]]></tweet>
@@ -5726,7 +5765,7 @@
       <categories>
 	  	<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Games</category>
         <category>Puzzles and Strategy</category>
         <category>Older Child (9-12 years)</category>
@@ -5747,7 +5786,7 @@
     <app>
       <name>ABC Trace Free</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/6b207602-4334-479a-bb5c-b73c7c33636e</image>
-	  <win8>false</win8>   
+	  <win8>false</win8>
    <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[ABC Trace Free helps kids improve hand-eye coordination while teaching the alphabet & basic vocab words]]></tweet>
@@ -5757,7 +5796,7 @@
       <priority>120914</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Pre-schooler (3-5 years)</category>
         <category>Literacy</category>
       </categories>
@@ -5774,7 +5813,7 @@
     <app>
       <name>Abby In Wonderland</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/7ea3c951-d904-4bc0-ae1c-bb455dbd5a93</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free/>
       <tweet><![CDATA[Have a magical read-out-loud experience exploring Wonderland with Elmo & his friends in Abby In Wonderland! ]]></tweet>
@@ -5784,7 +5823,7 @@
       <priority>120125</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>e-books</category>
       </categories>
       <filters />
@@ -5800,7 +5839,7 @@
     <app>
       <name>A+ Math Facts</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/de76c60a-3657-4f24-9e6c-ed8153151ef1</image>
-	  <win8>false</win8>    
+	  <win8>false</win8>
 	<review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Play a timed or relaxed multiple-choice math quiz with A+ Math Facts. Great for introducing kids to math!]]></tweet>
@@ -5810,7 +5849,7 @@
       <priority>120138</priority>
       <categories>
 		<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Geeky</category>
         <category>Math</category>
         <category>Older Child (9-12 years)</category>
@@ -5830,7 +5869,7 @@
 	    <app>
       <name>Flowerz</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/74726a4b-1686-4961-ba81-164d482a4ef4</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[The hit game Flowerz has a FREE APP! Match same-colored flowers, use butterflies & more—just like the web version!]]></tweet>
@@ -5841,7 +5880,7 @@
       <categories>
 		<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Games</category>
         <category>Older Child (9-12 years)</category>
         <category>Puzzles and Strategy</category>
@@ -5885,7 +5924,7 @@
     <app>
       <name>mazoocard Lite</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/6b4bdbd8-220e-4743-a398-107030fe4966</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[mazoocard LITE is a customizable memory game. Set the images on the cards, the number of cards to play & more!]]></tweet>
@@ -5895,7 +5934,7 @@
       <priority>121106</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Memory</category>
         <category>Older Child (9-12 years)</category>
         <category>Pre-schooler (3-5 years)</category>
@@ -5933,7 +5972,7 @@
     <app>
       <name>App Discovery by Windows Phone Parent</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/41cedd7e-9f91-4e6a-9b40-734235a89b80</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Do you like our recommendations? Make sure to share our app with friends & family so they can also discover amazing WP apps!]]></tweet>
@@ -5944,7 +5983,7 @@
       <categories>
 		<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Productivity</category>
         <category>Parenting Tools</category>
       </categories>
@@ -5961,7 +6000,7 @@
 		<app>
       <name>CatAlarm!</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/09911127-6a04-44c7-a053-f683eca0d0ea</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Wake up to the cute sound of cats & kittens w/ CatAlarm! Various categorized cat sounds & settings included!]]></tweet>
@@ -5972,12 +6011,12 @@
       <categories>
 	  	<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
 		<category>Animal Fun</category>
         <category>Productivity</category>
         <category>Older Child (9-12 years)</category>
         <category>Stress Relievers</category>
-        <category>Teenager</category>	
+        <category>Teenager</category>
       </categories>
       <filters>
         <filter>10 years old</filter>
@@ -5999,7 +6038,7 @@
     <app>
       <name>Stack the States</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/a4a9570e-6b6b-4502-a8de-4c22ec03f635</image>
-	  <win8>55fc6027-c08b-458b-b352-4a188a901628</win8> 
+	  <win8>55fc6027-c08b-458b-b352-4a188a901628</win8>
       <review>0</review>
       <free />
       <tweet><![CDATA[Learn state capitals, shapes, geographic locations and more. Touch, move and drop the animated states anywhere on the screen.]]></tweet>
@@ -6007,9 +6046,9 @@
 	  <bitly>http://bit.ly/15npr4T</bitly>
       <id>ca1dcc39-0fb3-45d6-bec6-ab525e9f5215</id>
       <priority>121109</priority>
-      <categories>	
+      <categories>
 		<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Activity Book</category>
         <category>Memory</category>
         <category>Older Child (9-12 years)</category>
@@ -6039,7 +6078,7 @@
     <app>
       <name>ReDraw!</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/320f260f-8d43-4d42-8614-f553ccca7e94</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Look at me & remember what you see! But be quick – w/ ReDraw! you have a blink of an eye to memorize what to draw!]]></tweet>
@@ -6050,7 +6089,7 @@
       <categories>
 	  	<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Arts</category>
         <category>Drawing</category>
         <category>Memory</category>
@@ -6087,7 +6126,7 @@
     <app>
       <name>Word Bubbles</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/034b4934-ece5-4cd7-88d1-85ed2360dfd1</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Word Bubbles—Fun for toddlers and grownups too! Tots learn their ABC’s while offering older minds a challenge too!]]></tweet>
@@ -6097,7 +6136,7 @@
       <priority>121115</priority>
       <categories>
 	  	<category>Kids</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Literacy</category>
         <category>Pre-schooler (3-5 years)</category>
         <category>Toddler (18-36 months)</category>
@@ -6127,7 +6166,7 @@
     <app>
       <name>Turkey Gobbler </name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/7616c71c-99f5-440e-95b9-a97455122375</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Turkey Gobbler—Have your very own pet turkey on your phone & change its look or make it gobble!]]></tweet>
@@ -6157,7 +6196,7 @@
 	    <app>
       <name>Wonder Witches</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/e16cd7a7-f75d-450c-8d38-c7bdb189a3d8</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Navigate dangerous, cloudy, lined skies as you collect floating potions & new broomsticks in Wonder Witches!]]></tweet>
@@ -6199,7 +6238,7 @@
     <app>
       <name>Plants vs. Zombies</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/7103d56b-df82-4bbd-9785-be580540074c</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE</free>
       <tweet><![CDATA[The zombies are coming! Use your lawn plants to defeat them all in the award-winning TD game Plants vs. Zombies!]]></tweet>
@@ -6247,7 +6286,7 @@
     <app>
       <name>Pumpkin Smash</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/0cc60150-49a7-44b8-b40d-501ea87a3bb8</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Stop Frankenstein's, Dracula's & more famous monsters' armies with flickable pumpkins in Pumpkin Smash! 30 levels!]]></tweet>
@@ -6289,7 +6328,7 @@
     <app>
       <name>Talking Pumpkin</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/206632d4-87d0-48dd-8ba6-9c224ac90d7d</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>FREE APP!</free>
       <tweet><![CDATA[Hear your voice in scary, Halloween-perfect audio with Talking Pumpkin—a fun recorder app with animated graphics!]]></tweet>
@@ -6327,7 +6366,7 @@
     <app>
       <name>Monster Island</name>
 	  <image>http://cdn.marketplaceimages.windowsphone.com/v8/images/27157492-f246-4cd8-9d9c-cba3cadd6ad8</image>
-	  <win8>false</win8> 
+	  <win8>false</win8>
       <review>0</review>
       <free>TRY FREE!</free>
       <tweet><![CDATA[Conquer your monster fears w/ the monster-bombing physics game Monster Island: 12 heroes & 252 levels to play!]]></tweet>
@@ -6338,7 +6377,7 @@
       <categories>
 		<category>Kids</category>
 		<category>Parents</category>
-		<category>Featured</category> 
+		<category>Featured</category>
         <category>Games</category>
         <category>Older Child (9-12 years)</category>
         <category>Puzzles and Strategy</category>
