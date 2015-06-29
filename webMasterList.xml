@@ -23,13 +23,13 @@
     <category>Young Child (5-8 years)</category>
     </categories>
     <filters>
-            <filter>10 years old</filter>
-            <filter>11 years old</filter>
             <filter>12 years old</filter>
-            <filter>6 years old</filter>
-            <filter>7 years old</filter>
+            <filter>11 years old</filter>
+            <filter>10 years old</filter>
+            <filter>9 years old</filter>
             <filter>8 years old</filter>
-    	<filter>9 years old</filter>
+            <filter>7 years old</filter>
+    	      <filter>6 years old</filter>
             <filter>teenager</filter>
           </filters>
     <url>http://www.windowsphone.com/en-gb/store/app/get-a-grip/2766594c-a61c-478f-83b0-2f2c42bf6fde/</url>
