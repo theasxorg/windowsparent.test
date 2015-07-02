@@ -16,7 +16,7 @@ else
 // The following code fragment parses an XML document called navigation_kids.xml into an XML DOM object by
 //The open() and send(X) methods of the XHMLHttpRequest onject are also used to send requests to the server
 // the get method is passed, then the url we want to get, then Synchronous was chossen
-xmlhttp.open("GET","../../../../navigation_kids.xml",true);
+xmlhttp.open("GET","../../../../navigation_kids.xml",false);
 xmlhttp.send();
 // Builds an XMLDocument object from the body of the servers response.
 xmlDoc=xmlhttp.responseXML;
@@ -54,7 +54,7 @@ for (i=0;i<n.length;i++)
   }
 }
 
-// Once this function is called the XHLHttpRequest for page and xmlpage is passed
+// function for left side navigation.
 function menuLeftNav(page, xmlpage){
 if (window.XMLHttpRequest)
   {// code for IE7+, Firefox, Chrome, Opera, Safari
@@ -76,13 +76,16 @@ var n=xmlDoc.getElementsByTagName("nav");
 The ul document Category/Nav navText is created.
 document.write("<ul class=\"categoryNav navText\">");
 
-// a for loop is created to loop through each NodeList of "nav" by using the length property.
+// for loop to travers the xml file.
 for (i=0;i<n.length;i++)
   {
-    //if the title NodeList at the childNodes and nodeValue 0 position, is not equal to page.
+    /* if/else statement to determine if the text should be hyper linked or not
+     if the parameter "page" is the same as the child of the xml node, then
+     the text is not hyper linked because that is the page you are on.
+    */
     if(n[i].getElementsByTagName("title")[0].childNodes[0].nodeValue != page)
 	{
-    // then the following code is executed. and the link and title page are created
+
     document.write("<li><a href=");
     document.write(n[i].getElementsByTagName("link")[0].childNodes[0].nodeValue);
 	  document.write(">");
@@ -90,7 +93,7 @@ for (i=0;i<n.length;i++)
 	  document.write("</a></li>");
 	}
 	else{
-      // the "nav-selected" code is listed.
+
 		    document.write("<li class=\"nav-selected\">");
 			  document.write(page);
 			  document.write("</li>");
@@ -100,7 +103,7 @@ for (i=0;i<n.length;i++)
         document.write("</ul>");
 }
 
-// Once this function is called the XHLHttpRequest for leftNav and topNav
+// funcfion for appContainer
 function appContainer(leftNav, topNav){
 if (window.XMLHttpRequest)
   {// code for IE7+, Firefox, Chrome, Opera, Safari
@@ -115,58 +118,63 @@ xmlhttp.open("GET","../../../../webMasterList.xml",false);
 xmlhttp.send();
 xmlDoc=xmlhttp.responseXML;
 
-// Var n is assigned getElementsByTagName()medthod, which returns a NodeList(An Array Of Nodes) of all elements with "app".
+
 var x=xmlDoc.getElementsByTagName("app");
-// flag variable is created assigned with 0 value.
+
 var flag=0;
 
-// a for loop is created to loop through each NodeList of "app" by using the length property.
+// the xml file "app" is travers.
 for (i=0;i<x.length;i++)
   {
 
-    // another for loop is created to loop through each NodeList of "category" by using the length property.
+
   c=x[i].getElementsByTagName("category");
+  // another xml file "category" is travers.
    for (j=0;j<c.length;j++)
   {
-    // if category in the Nodelist is equals to leftNav
+    /*
+      multiple if steatements used to determine which page the user is on if the leftNav and topNav is the same
+      as the childNode then user is on the category page.
+    */
     if (x[i].getElementsByTagName("category")[j].childNodes[0].nodeValue == leftNav )
    { //document.write(x[i].getElementsByTagName("category")[j].childNodes[0].nodeValue);
 
-   // then another for loop with an if statement is created to check if topNav is also equals to category
+
 	 for (f=0;f<c.length;f++)
   	 {
-       // if category in the Nodelist is equals to topNav
+
 	     if (x[i].getElementsByTagName("category")[f].childNodes[0].nodeValue == topNav)
          {
-           // 1 is added to flag, then the following code is sent to the browser.
+
 		 	       flag=flag + 1;
              document.write("<div class=\"app-container\">");
              document.write("<div class=\"app-image\" style=\" background:url(");
              document.write(x[i].getElementsByTagName("image")[0].childNodes[0].nodeValue);
              document.write(")  center no-repeat; background-size: 163px Auto\">");
              document.write("<div class=\"stores-links\">");
-            //if win8 is node list is true
+
+            //if win8 is node list is true then hyper link is created because user is not on the right page.
          if (x[i].getElementsByTagName("win8")[0].childNodes[0].nodeValue != "false")
          {
-           //the following documents are sent to the browser.
+
       		document.write("<a href=\"http://apps.microsoft.com/webpdp/app/");
       		document.write(x[i].getElementsByTagName("win8")[0].childNodes[0].nodeValue);
       		document.write("\">");
       		document.write("<img id=\"store\" alt=\"W8\" onmouseout=\"this.src='../../../../images/W8.png'\"  onmouseover=\"this.src='../../../../images/W8_hover.png'\" src=\"../../../../images/W8.png\">");
       		document.write("</a>");
          }
-         //if id in node list is true
+         //if id is node list is true then hyper link is created because user is not on the right page.
 	     if (x[i].getElementsByTagName("id")[0].childNodes[0].nodeValue != "false")
          {
-           //the following documents are sent to the browser.
+
            document.write("<a href=\"http://www.windowsphone.com/s?appid=");
            document.write(x[i].getElementsByTagName("id")[0].childNodes[0].nodeValue);
            document.write("\"><img id=\"store\"  alt=\"Wp7\" onmouseout=\"this.src='../../../../images/WP7.png'\"  onmouseover=\"this.src='../../../../images/WP7_hover.png'\" src=\"../../../../images/WP7.png\"></a>");
 	    }
-      //if review in node list is not equals to 0
+      //if review is node list is true then hyper link is created because user is not on the right page.
 	    if (x[i].getElementsByTagName("review")[0].childNodes[0].nodeValue != "0")
          {
-           //the following documents are sent to the browser.
+
            document.write("<a href=\"");
            document.write(x[i].getElementsByTagName("review")[0].childNodes[0].nodeValue);
 		   document.write("\"><img id=\"store\"  alt=\"rating\" onmouseout=\"this.src='images/ratings/rating_");
@@ -190,7 +198,7 @@ for (i=0;i<x.length;i++)
 
 
  }
-
+ //if flag stays on 0 no apps were found..
   }
   if(flag == 0){
   document.write("<div class=\"review-breakdown\">We couldn&acute;t find any apps under these filters.<br /><br />We are adding new apps on a daily basis,<br /> please come back soon : )</div>");
